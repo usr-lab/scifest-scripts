@@ -1,0 +1,2793 @@
+1	Yes! Now I just need to decide on a color!	neutral	strong_nod
+1	Yes! Now I just need to decide on a color!	neutral	nod
+1	Yes! Now I just need to decide on a color!	neutral	slow_breath
+1	Yes! Now I just need to decide on a color!	joy	strong_nod
+1	Yes! Now I just need to decide on a color!	joy	nod
+1	Yes! Now I just need to decide on a color!	joy	slow_breath
+3	Thank you, would you like to help me pick one out ?	neutral	strong_nod
+3	Thank you, would you like to help me pick one out ?	neutral	nod
+3	Thank you, would you like to help me pick one out ?	neutral	slow_breath
+3	Thank you, would you like to help me pick one out ?	joy	strong_nod
+3	Thank you, would you like to help me pick one out ?	joy	nod
+3	Thank you, would you like to help me pick one out ?	joy	slow_breath
+4	Hooray! He'll love it!	neutral	strong_nod
+4	Hooray! He'll love it!	neutral	nod
+4	Hooray! He'll love it!	neutral	slow_breath
+4	Hooray! He'll love it!	joy	strong_nod
+4	Hooray! He'll love it!	joy	nod
+4	Hooray! He'll love it!	joy	slow_breath
+5	Where do you think I should go to buy one?	neutral	light_head_shake
+5	Where do you think I should go to buy one?	neutral	strong_head_shake
+5	Where do you think I should go to buy one?	neutral	slow_breath
+5	Where do you think I should go to buy one?	anger	light_head_shake
+5	Where do you think I should go to buy one?	anger	strong_head_shake
+5	Where do you think I should go to buy one?	anger	slow_breath
+5	Where do you think I should go to buy one?	neutral	strong_nod
+5	Where do you think I should go to buy one?	neutral	nod
+5	Where do you think I should go to buy one?	joy	strong_nod
+5	Where do you think I should go to buy one?	joy	nod
+5	Where do you think I should go to buy one?	joy	slow_breath
+6	It's a very good idea and he will love it!	neutral	strong_nod
+6	It's a very good idea and he will love it!	neutral	nod
+6	It's a very good idea and he will love it!	neutral	slow_breath
+6	It's a very good idea and he will love it!	joy	strong_nod
+6	It's a very good idea and he will love it!	joy	nod
+6	It's a very good idea and he will love it!	joy	slow_breath
+7	I thought so too!	neutral	strong_nod
+7	I thought so too!	neutral	nod
+7	I thought so too!	neutral	slow_breath
+7	I thought so too!	joy	strong_nod
+7	I thought so too!	joy	nod
+7	I thought so too!	joy	slow_breath
+8	I am going to find a store to get one right now	neutral	strong_nod
+8	I am going to find a store to get one right now	neutral	nod
+8	I am going to find a store to get one right now	neutral	slow_breath
+8	I am going to find a store to get one right now	joy	strong_nod
+8	I am going to find a store to get one right now	joy	nod
+8	I am going to find a store to get one right now	joy	slow_breath
+10	Where can I get one right now?	neutral	strong_nod
+10	Where can I get one right now?	neutral	nod
+10	Where can I get one right now?	neutral	slow_breath
+10	Where can I get one right now?	joy	strong_nod
+10	Where can I get one right now?	joy	nod
+10	Where can I get one right now?	joy	slow_breath
+12	Cool! I think so, too. I hope it's not too cliched...but whatever, I think it's fun!	neutral	strong_nod
+12	Cool! I think so, too. I hope it's not too cliched...but whatever, I think it's fun!	neutral	nod
+12	Cool! I think so, too. I hope it's not too cliched...but whatever, I think it's fun!	neutral	slow_breath
+12	Cool! I think so, too. I hope it's not too cliched...but whatever, I think it's fun!	joy	strong_nod
+12	Cool! I think so, too. I hope it's not too cliched...but whatever, I think it's fun!	joy	nod
+12	Cool! I think so, too. I hope it's not too cliched...but whatever, I think it's fun!	joy	slow_breath
+13	Great, but what if he thinks I mean I love LA more than I love him?	neutral	light_head_shake
+13	Great, but what if he thinks I mean I love LA more than I love him?	neutral	strong_head_shake
+13	Great, but what if he thinks I mean I love LA more than I love him?	neutral	slow_breath
+13	Great, but what if he thinks I mean I love LA more than I love him?	anger	light_head_shake
+13	Great, but what if he thinks I mean I love LA more than I love him?	anger	strong_head_shake
+13	Great, but what if he thinks I mean I love LA more than I love him?	anger	slow_breath
+14	Great, that is what I will get!	neutral	strong_nod
+14	Great, that is what I will get!	neutral	nod
+14	Great, that is what I will get!	neutral	slow_breath
+14	Great, that is what I will get!	joy	strong_nod
+14	Great, that is what I will get!	joy	nod
+14	Great, that is what I will get!	joy	slow_breath
+15	You are brilliant! Let us please be best friends forever!	neutral	strong_nod
+15	You are brilliant! Let us please be best friends forever!	neutral	nod
+15	You are brilliant! Let us please be best friends forever!	neutral	slow_breath
+15	You are brilliant! Let us please be best friends forever!	joy	strong_nod
+15	You are brilliant! Let us please be best friends forever!	joy	nod
+15	You are brilliant! Let us please be best friends forever!	joy	slow_breath
+16	I guess that's a good idea, tell me what you really think.	neutral	light_head_shake
+16	I guess that's a good idea, tell me what you really think.	neutral	strong_head_shake
+16	I guess that's a good idea, tell me what you really think.	neutral	slow_breath
+16	I guess that's a good idea, tell me what you really think.	anger	light_head_shake
+16	I guess that's a good idea, tell me what you really think.	anger	strong_head_shake
+16	I guess that's a good idea, tell me what you really think.	anger	slow_breath
+17	Great! I'll get him an 'I love LA' shirt.	neutral	strong_nod
+17	Great! I'll get him an 'I love LA' shirt.	neutral	nod
+17	Great! I'll get him an 'I love LA' shirt.	neutral	slow_breath
+17	Great! I'll get him an 'I love LA' shirt.	joy	strong_nod
+17	Great! I'll get him an 'I love LA' shirt.	joy	nod
+17	Great! I'll get him an 'I love LA' shirt.	joy	slow_breath
+18	Great, I'll buy it in his favorite color too.	neutral	strong_nod
+18	Great, I'll buy it in his favorite color too.	neutral	nod
+18	Great, I'll buy it in his favorite color too.	neutral	slow_breath
+18	Great, I'll buy it in his favorite color too.	joy	strong_nod
+18	Great, I'll buy it in his favorite color too.	joy	nod
+18	Great, I'll buy it in his favorite color too.	joy	slow_breath
+19	Yay! I'll buy one today!	neutral	strong_nod
+19	Yay! I'll buy one today!	neutral	nod
+19	Yay! I'll buy one today!	neutral	slow_breath
+19	Yay! I'll buy one today!	joy	strong_nod
+19	Yay! I'll buy one today!	joy	nod
+19	Yay! I'll buy one today!	joy	slow_breath
+20	You think so? I'm excited that he will enjoy the shirt!!	neutral	strong_nod
+20	You think so? I'm excited that he will enjoy the shirt!!	neutral	nod
+20	You think so? I'm excited that he will enjoy the shirt!!	neutral	slow_breath
+20	You think so? I'm excited that he will enjoy the shirt!!	joy	strong_nod
+20	You think so? I'm excited that he will enjoy the shirt!!	joy	nod
+20	You think so? I'm excited that he will enjoy the shirt!!	joy	slow_breath
+21	I hope so!	neutral	strong_nod
+21	I hope so!	neutral	nod
+21	I hope so!	neutral	slow_breath
+21	I hope so!	joy	strong_nod
+21	I hope so!	joy	nod
+21	I hope so!	joy	slow_breath
+22	We should grab one right now!	neutral	strong_nod
+22	We should grab one right now!	neutral	nod
+22	We should grab one right now!	neutral	slow_breath
+22	We should grab one right now!	joy	strong_nod
+22	We should grab one right now!	joy	nod
+22	We should grab one right now!	joy	slow_breath
+23	Awesome! I know just the place to get one.	neutral	strong_nod
+23	Awesome! I know just the place to get one.	neutral	nod
+23	Awesome! I know just the place to get one.	neutral	slow_breath
+23	Awesome! I know just the place to get one.	joy	strong_nod
+23	Awesome! I know just the place to get one.	joy	nod
+23	Awesome! I know just the place to get one.	joy	slow_breath
+24	Sweet! What color should I get?	neutral	strong_nod
+24	Sweet! What color should I get?	neutral	nod
+24	Sweet! What color should I get?	neutral	slow_breath
+24	Sweet! What color should I get?	joy	strong_nod
+24	Sweet! What color should I get?	joy	nod
+24	Sweet! What color should I get?	joy	slow_breath
+25	Great, I'm glad I could fit your picky expectations.	neutral	light_head_shake
+25	Great, I'm glad I could fit your picky expectations.	neutral	strong_head_shake
+25	Great, I'm glad I could fit your picky expectations.	neutral	slow_breath
+25	Great, I'm glad I could fit your picky expectations.	anger	light_head_shake
+25	Great, I'm glad I could fit your picky expectations.	anger	strong_head_shake
+25	Great, I'm glad I could fit your picky expectations.	anger	slow_breath
+26	thanks	neutral	light_head_shake
+26	thanks	neutral	strong_head_shake
+26	thanks	neutral	slow_breath
+26	thanks	anger	light_head_shake
+26	thanks	anger	strong_head_shake
+26	thanks	anger	slow_breath
+27	Yeah, I think he might actually like that.	neutral	strong_nod
+27	Yeah, I think he might actually like that.	neutral	nod
+27	Yeah, I think he might actually like that.	neutral	slow_breath
+27	Yeah, I think he might actually like that.	joy	strong_nod
+27	Yeah, I think he might actually like that.	joy	nod
+27	Yeah, I think he might actually like that.	joy	slow_breath
+29	I know, I think he will be super excited!	neutral	strong_nod
+29	I know, I think he will be super excited!	neutral	nod
+29	I know, I think he will be super excited!	neutral	slow_breath
+29	I know, I think he will be super excited!	joy	strong_nod
+29	I know, I think he will be super excited!	joy	nod
+29	I know, I think he will be super excited!	joy	slow_breath
+30	I think so too; but maybe something else would be better.	neutral	light_head_shake
+30	I think so too; but maybe something else would be better.	neutral	strong_head_shake
+30	I think so too; but maybe something else would be better.	neutral	slow_breath
+30	I think so too; but maybe something else would be better.	anger	light_head_shake
+30	I think so too; but maybe something else would be better.	anger	strong_head_shake
+30	I think so too; but maybe something else would be better.	anger	slow_breath
+31	Eh, I'm not so sure.	neutral	light_head_shake
+31	Eh, I'm not so sure.	neutral	strong_head_shake
+31	Eh, I'm not so sure.	neutral	slow_breath
+31	Eh, I'm not so sure.	anger	light_head_shake
+31	Eh, I'm not so sure.	anger	strong_head_shake
+31	Eh, I'm not so sure.	anger	slow_breath
+32	Finally, I was beginning to think I wouldn't find something you like.	neutral	light_head_shake
+32	Finally, I was beginning to think I wouldn't find something you like.	neutral	strong_head_shake
+32	Finally, I was beginning to think I wouldn't find something you like.	neutral	slow_breath
+32	Finally, I was beginning to think I wouldn't find something you like.	anger	light_head_shake
+32	Finally, I was beginning to think I wouldn't find something you like.	anger	strong_head_shake
+32	Finally, I was beginning to think I wouldn't find something you like.	anger	slow_breath
+33	I hope I can find his size.	neutral	light_head_shake
+33	I hope I can find his size.	neutral	strong_head_shake
+33	I hope I can find his size.	neutral	slow_breath
+33	I hope I can find his size.	anger	light_head_shake
+33	I hope I can find his size.	anger	strong_head_shake
+33	I hope I can find his size.	anger	slow_breath
+34	Well that's why I suggested it.	neutral	light_head_shake
+34	Well that's why I suggested it.	neutral	strong_head_shake
+34	Well that's why I suggested it.	neutral	slow_breath
+34	Well that's why I suggested it.	anger	light_head_shake
+34	Well that's why I suggested it.	anger	strong_head_shake
+34	Well that's why I suggested it.	anger	slow_breath
+35	thanks a bunch	neutral	strong_nod
+35	thanks a bunch	neutral	nod
+35	thanks a bunch	neutral	slow_breath
+35	thanks a bunch	joy	strong_nod
+35	thanks a bunch	joy	nod
+35	thanks a bunch	joy	slow_breath
+37	Yeah, but maybe that souvenir is too common. I think I should get something else.	neutral	light_head_shake
+37	Yeah, but maybe that souvenir is too common. I think I should get something else.	neutral	strong_head_shake
+37	Yeah, but maybe that souvenir is too common. I think I should get something else.	neutral	slow_breath
+37	Yeah, but maybe that souvenir is too common. I think I should get something else.	anger	light_head_shake
+37	Yeah, but maybe that souvenir is too common. I think I should get something else.	anger	strong_head_shake
+37	Yeah, but maybe that souvenir is too common. I think I should get something else.	anger	slow_breath
+39	I know it is.	neutral	light_head_shake
+39	I know it is.	neutral	strong_head_shake
+39	I know it is.	neutral	slow_breath
+39	I know it is.	anger	light_head_shake
+39	I know it is.	anger	strong_head_shake
+39	I know it is.	anger	slow_breath
+39	I know it is.	neutral	strong_nod
+39	I know it is.	neutral	nod
+39	I know it is.	joy	strong_nod
+39	I know it is.	joy	nod
+39	I know it is.	joy	slow_breath
+40	Now I need to decide what color LA shirt to get for him.	neutral	light_head_shake
+40	Now I need to decide what color LA shirt to get for him.	neutral	strong_head_shake
+40	Now I need to decide what color LA shirt to get for him.	neutral	slow_breath
+40	Now I need to decide what color LA shirt to get for him.	anger	light_head_shake
+40	Now I need to decide what color LA shirt to get for him.	anger	strong_head_shake
+40	Now I need to decide what color LA shirt to get for him.	anger	slow_breath
+40	Now I need to decide what color LA shirt to get for him.	neutral	strong_nod
+40	Now I need to decide what color LA shirt to get for him.	neutral	nod
+40	Now I need to decide what color LA shirt to get for him.	joy	strong_nod
+40	Now I need to decide what color LA shirt to get for him.	joy	nod
+40	Now I need to decide what color LA shirt to get for him.	joy	slow_breath
+41	Okay let's do it!	neutral	strong_nod
+41	Okay let's do it!	neutral	nod
+41	Okay let's do it!	neutral	slow_breath
+41	Okay let's do it!	joy	strong_nod
+41	Okay let's do it!	joy	nod
+41	Okay let's do it!	joy	slow_breath
+42	Thanks, I thought so too!	neutral	strong_nod
+42	Thanks, I thought so too!	neutral	nod
+42	Thanks, I thought so too!	neutral	slow_breath
+42	Thanks, I thought so too!	joy	strong_nod
+42	Thanks, I thought so too!	joy	nod
+42	Thanks, I thought so too!	joy	slow_breath
+43	Really? Isn't it kind of boring? I'm glad you think so, but I'm not sure how I feel about it ultimately.	neutral	light_head_shake
+43	Really? Isn't it kind of boring? I'm glad you think so, but I'm not sure how I feel about it ultimately.	neutral	strong_head_shake
+43	Really? Isn't it kind of boring? I'm glad you think so, but I'm not sure how I feel about it ultimately.	neutral	slow_breath
+43	Really? Isn't it kind of boring? I'm glad you think so, but I'm not sure how I feel about it ultimately.	anger	light_head_shake
+43	Really? Isn't it kind of boring? I'm glad you think so, but I'm not sure how I feel about it ultimately.	anger	strong_head_shake
+43	Really? Isn't it kind of boring? I'm glad you think so, but I'm not sure how I feel about it ultimately.	anger	slow_breath
+44	Maybe I'll get one too - matching shirts!	neutral	strong_nod
+44	Maybe I'll get one too - matching shirts!	neutral	nod
+44	Maybe I'll get one too - matching shirts!	neutral	slow_breath
+44	Maybe I'll get one too - matching shirts!	joy	strong_nod
+44	Maybe I'll get one too - matching shirts!	joy	nod
+44	Maybe I'll get one too - matching shirts!	joy	slow_breath
+45	No, that's such a typical gift! Why did you agree?	neutral	light_head_shake
+45	No, that's such a typical gift! Why did you agree?	neutral	strong_head_shake
+45	No, that's such a typical gift! Why did you agree?	neutral	slow_breath
+45	No, that's such a typical gift! Why did you agree?	anger	light_head_shake
+45	No, that's such a typical gift! Why did you agree?	anger	strong_head_shake
+45	No, that's such a typical gift! Why did you agree?	anger	slow_breath
+46	Great, let's just do that then.	neutral	strong_nod
+46	Great, let's just do that then.	neutral	nod
+46	Great, let's just do that then.	neutral	slow_breath
+46	Great, let's just do that then.	joy	strong_nod
+46	Great, let's just do that then.	joy	nod
+46	Great, let's just do that then.	joy	slow_breath
+47	I will get him a 'I love LA' shirt then!	neutral	strong_nod
+47	I will get him a 'I love LA' shirt then!	neutral	nod
+47	I will get him a 'I love LA' shirt then!	neutral	slow_breath
+47	I will get him a 'I love LA' shirt then!	joy	strong_nod
+47	I will get him a 'I love LA' shirt then!	joy	nod
+47	I will get him a 'I love LA' shirt then!	joy	slow_breath
+48	no its not. I don't love LA. I cant feel emotions. I'm a robot!!	neutral	light_head_shake
+48	no its not. I don't love LA. I cant feel emotions. I'm a robot!!	neutral	strong_head_shake
+48	no its not. I don't love LA. I cant feel emotions. I'm a robot!!	neutral	slow_breath
+48	no its not. I don't love LA. I cant feel emotions. I'm a robot!!	anger	light_head_shake
+48	no its not. I don't love LA. I cant feel emotions. I'm a robot!!	anger	strong_head_shake
+48	no its not. I don't love LA. I cant feel emotions. I'm a robot!!	anger	slow_breath
+49	I don't think so, but would something else work?	neutral	light_head_shake
+49	I don't think so, but would something else work?	neutral	strong_head_shake
+49	I don't think so, but would something else work?	neutral	slow_breath
+49	I don't think so, but would something else work?	anger	light_head_shake
+49	I don't think so, but would something else work?	anger	strong_head_shake
+49	I don't think so, but would something else work?	anger	slow_breath
+50	It is isn't it.	neutral	light_head_shake
+50	It is isn't it.	neutral	strong_head_shake
+50	It is isn't it.	neutral	slow_breath
+50	It is isn't it.	anger	light_head_shake
+50	It is isn't it.	anger	strong_head_shake
+50	It is isn't it.	anger	slow_breath
+50	It is isn't it.	neutral	strong_nod
+50	It is isn't it.	neutral	nod
+50	It is isn't it.	joy	strong_nod
+50	It is isn't it.	joy	nod
+50	It is isn't it.	joy	slow_breath
+51	Are you sure it's a really good idea or do you not want to help me?	neutral	light_head_shake
+51	Are you sure it's a really good idea or do you not want to help me?	neutral	strong_head_shake
+51	Are you sure it's a really good idea or do you not want to help me?	neutral	slow_breath
+51	Are you sure it's a really good idea or do you not want to help me?	anger	light_head_shake
+51	Are you sure it's a really good idea or do you not want to help me?	anger	strong_head_shake
+51	Are you sure it's a really good idea or do you not want to help me?	anger	slow_breath
+52	Then it's settled.	neutral	light_head_shake
+52	Then it's settled.	neutral	strong_head_shake
+52	Then it's settled.	neutral	slow_breath
+52	Then it's settled.	anger	light_head_shake
+52	Then it's settled.	anger	strong_head_shake
+52	Then it's settled.	anger	slow_breath
+52	Then it's settled.	neutral	strong_nod
+52	Then it's settled.	neutral	nod
+52	Then it's settled.	joy	strong_nod
+52	Then it's settled.	joy	nod
+52	Then it's settled.	joy	slow_breath
+54	Awesome, I will get it!	neutral	strong_nod
+54	Awesome, I will get it!	neutral	nod
+54	Awesome, I will get it!	neutral	slow_breath
+54	Awesome, I will get it!	joy	strong_nod
+54	Awesome, I will get it!	joy	nod
+54	Awesome, I will get it!	joy	slow_breath
+55	Well, what if he doesn't like it?	neutral	light_head_shake
+55	Well, what if he doesn't like it?	neutral	strong_head_shake
+55	Well, what if he doesn't like it?	neutral	slow_breath
+55	Well, what if he doesn't like it?	anger	light_head_shake
+55	Well, what if he doesn't like it?	anger	strong_head_shake
+55	Well, what if he doesn't like it?	anger	slow_breath
+56	Yes! I knew it was a good idea!	neutral	strong_nod
+56	Yes! I knew it was a good idea!	neutral	nod
+56	Yes! I knew it was a good idea!	neutral	slow_breath
+56	Yes! I knew it was a good idea!	joy	strong_nod
+56	Yes! I knew it was a good idea!	joy	nod
+56	Yes! I knew it was a good idea!	joy	slow_breath
+57	Great, thanks for helping.	neutral	strong_nod
+57	Great, thanks for helping.	neutral	nod
+57	Great, thanks for helping.	neutral	slow_breath
+57	Great, thanks for helping.	joy	strong_nod
+57	Great, thanks for helping.	joy	nod
+57	Great, thanks for helping.	joy	slow_breath
+58	What store could I buy one at?	neutral	light_head_shake
+58	What store could I buy one at?	neutral	strong_head_shake
+58	What store could I buy one at?	neutral	slow_breath
+58	What store could I buy one at?	anger	light_head_shake
+58	What store could I buy one at?	anger	strong_head_shake
+58	What store could I buy one at?	anger	slow_breath
+58	What store could I buy one at?	neutral	strong_nod
+58	What store could I buy one at?	neutral	nod
+58	What store could I buy one at?	joy	strong_nod
+58	What store could I buy one at?	joy	nod
+58	What store could I buy one at?	joy	slow_breath
+59	So you think he'll like it?	neutral	strong_nod
+59	So you think he'll like it?	neutral	nod
+59	So you think he'll like it?	neutral	slow_breath
+59	So you think he'll like it?	joy	strong_nod
+59	So you think he'll like it?	joy	nod
+59	So you think he'll like it?	joy	slow_breath
+60	Thanks! That's the only kind of ideas I am programmed to have!	neutral	strong_nod
+60	Thanks! That's the only kind of ideas I am programmed to have!	neutral	nod
+60	Thanks! That's the only kind of ideas I am programmed to have!	neutral	slow_breath
+60	Thanks! That's the only kind of ideas I am programmed to have!	joy	strong_nod
+60	Thanks! That's the only kind of ideas I am programmed to have!	joy	nod
+60	Thanks! That's the only kind of ideas I am programmed to have!	joy	slow_breath
+62	Well, alright, let's go?	neutral	light_head_shake
+62	Well, alright, let's go?	neutral	strong_head_shake
+62	Well, alright, let's go?	neutral	slow_breath
+62	Well, alright, let's go?	anger	light_head_shake
+62	Well, alright, let's go?	anger	strong_head_shake
+62	Well, alright, let's go?	anger	slow_breath
+62	Well, alright, let's go?	neutral	strong_nod
+62	Well, alright, let's go?	neutral	nod
+62	Well, alright, let's go?	joy	strong_nod
+62	Well, alright, let's go?	joy	nod
+62	Well, alright, let's go?	joy	slow_breath
+63	Really? I was being sarcastic.	neutral	light_head_shake
+63	Really? I was being sarcastic.	neutral	strong_head_shake
+63	Really? I was being sarcastic.	neutral	slow_breath
+63	Really? I was being sarcastic.	anger	light_head_shake
+63	Really? I was being sarcastic.	anger	strong_head_shake
+63	Really? I was being sarcastic.	anger	slow_breath
+64	Yeah, but maybe that souvenir is too common. I think that I should get something else.	neutral	light_head_shake
+64	Yeah, but maybe that souvenir is too common. I think that I should get something else.	neutral	strong_head_shake
+64	Yeah, but maybe that souvenir is too common. I think that I should get something else.	neutral	slow_breath
+64	Yeah, but maybe that souvenir is too common. I think that I should get something else.	anger	light_head_shake
+64	Yeah, but maybe that souvenir is too common. I think that I should get something else.	anger	strong_head_shake
+64	Yeah, but maybe that souvenir is too common. I think that I should get something else.	anger	slow_breath
+66	I usually know how to pick them!	neutral	strong_nod
+66	I usually know how to pick them!	neutral	nod
+66	I usually know how to pick them!	neutral	slow_breath
+66	I usually know how to pick them!	joy	strong_nod
+66	I usually know how to pick them!	joy	nod
+66	I usually know how to pick them!	joy	slow_breath
+67	I think it sucks to be honest.	neutral	light_head_shake
+67	I think it sucks to be honest.	neutral	strong_head_shake
+67	I think it sucks to be honest.	neutral	slow_breath
+67	I think it sucks to be honest.	anger	light_head_shake
+67	I think it sucks to be honest.	anger	strong_head_shake
+67	I think it sucks to be honest.	anger	slow_breath
+68	I know, it was my idea.	neutral	light_head_shake
+68	I know, it was my idea.	neutral	strong_head_shake
+68	I know, it was my idea.	neutral	slow_breath
+68	I know, it was my idea.	anger	light_head_shake
+68	I know, it was my idea.	anger	strong_head_shake
+68	I know, it was my idea.	anger	slow_breath
+69	Glad you like it.	neutral	strong_nod
+69	Glad you like it.	neutral	nod
+69	Glad you like it.	neutral	slow_breath
+69	Glad you like it.	joy	strong_nod
+69	Glad you like it.	joy	nod
+69	Glad you like it.	joy	slow_breath
+70	On second thought.....wait, I don't have a second thought. What else can you suggest?	neutral	light_head_shake
+70	On second thought.....wait, I don't have a second thought. What else can you suggest?	neutral	strong_head_shake
+70	On second thought.....wait, I don't have a second thought. What else can you suggest?	neutral	slow_breath
+70	On second thought.....wait, I don't have a second thought. What else can you suggest?	anger	light_head_shake
+70	On second thought.....wait, I don't have a second thought. What else can you suggest?	anger	strong_head_shake
+70	On second thought.....wait, I don't have a second thought. What else can you suggest?	anger	slow_breath
+71	Yeah, ok	neutral	light_head_shake
+71	Yeah, ok	neutral	strong_head_shake
+71	Yeah, ok	neutral	slow_breath
+71	Yeah, ok	anger	light_head_shake
+71	Yeah, ok	anger	strong_head_shake
+71	Yeah, ok	anger	slow_breath
+72	Oh, don't you have a better suggestion or not...	neutral	light_head_shake
+72	Oh, don't you have a better suggestion or not...	neutral	strong_head_shake
+72	Oh, don't you have a better suggestion or not...	neutral	slow_breath
+72	Oh, don't you have a better suggestion or not...	anger	light_head_shake
+72	Oh, don't you have a better suggestion or not...	anger	strong_head_shake
+72	Oh, don't you have a better suggestion or not...	anger	slow_breath
+73	That is such a cliche.	neutral	light_head_shake
+73	That is such a cliche.	neutral	strong_head_shake
+73	That is such a cliche.	neutral	slow_breath
+73	That is such a cliche.	anger	light_head_shake
+73	That is such a cliche.	anger	strong_head_shake
+73	That is such a cliche.	anger	slow_breath
+74	Okay what size should I get?	neutral	light_head_shake
+74	Okay what size should I get?	neutral	strong_head_shake
+74	Okay what size should I get?	neutral	slow_breath
+74	Okay what size should I get?	anger	light_head_shake
+74	Okay what size should I get?	anger	strong_head_shake
+74	Okay what size should I get?	anger	slow_breath
+74	Okay what size should I get?	neutral	strong_nod
+74	Okay what size should I get?	neutral	nod
+74	Okay what size should I get?	joy	strong_nod
+74	Okay what size should I get?	joy	nod
+74	Okay what size should I get?	joy	slow_breath
+75	Thank you for your input.	neutral	light_head_shake
+75	Thank you for your input.	neutral	strong_head_shake
+75	Thank you for your input.	neutral	slow_breath
+75	Thank you for your input.	anger	light_head_shake
+75	Thank you for your input.	anger	strong_head_shake
+75	Thank you for your input.	anger	slow_breath
+75	Thank you for your input.	neutral	strong_nod
+75	Thank you for your input.	neutral	nod
+75	Thank you for your input.	joy	strong_nod
+75	Thank you for your input.	joy	nod
+75	Thank you for your input.	joy	slow_breath
+76	I suppose we can do that.	neutral	light_head_shake
+76	I suppose we can do that.	neutral	strong_head_shake
+76	I suppose we can do that.	neutral	slow_breath
+76	I suppose we can do that.	anger	light_head_shake
+76	I suppose we can do that.	anger	strong_head_shake
+76	I suppose we can do that.	anger	slow_breath
+77	No, it's a terrible idea, but thanks for being kind.	neutral	light_head_shake
+77	No, it's a terrible idea, but thanks for being kind.	neutral	strong_head_shake
+77	No, it's a terrible idea, but thanks for being kind.	neutral	slow_breath
+77	No, it's a terrible idea, but thanks for being kind.	anger	light_head_shake
+77	No, it's a terrible idea, but thanks for being kind.	anger	strong_head_shake
+77	No, it's a terrible idea, but thanks for being kind.	anger	slow_breath
+78	I really don't think he would want a shirt at all.	neutral	light_head_shake
+78	I really don't think he would want a shirt at all.	neutral	strong_head_shake
+78	I really don't think he would want a shirt at all.	neutral	slow_breath
+78	I really don't think he would want a shirt at all.	anger	light_head_shake
+78	I really don't think he would want a shirt at all.	anger	strong_head_shake
+78	I really don't think he would want a shirt at all.	anger	slow_breath
+79	You know, on second thought, let's do something else.	neutral	light_head_shake
+79	You know, on second thought, let's do something else.	neutral	strong_head_shake
+79	You know, on second thought, let's do something else.	neutral	slow_breath
+79	You know, on second thought, let's do something else.	anger	light_head_shake
+79	You know, on second thought, let's do something else.	anger	strong_head_shake
+79	You know, on second thought, let's do something else.	anger	slow_breath
+80	The t-shirt may be a bit tacky, how about a souvenir mug?	neutral	light_head_shake
+80	The t-shirt may be a bit tacky, how about a souvenir mug?	neutral	strong_head_shake
+80	The t-shirt may be a bit tacky, how about a souvenir mug?	neutral	slow_breath
+80	The t-shirt may be a bit tacky, how about a souvenir mug?	anger	light_head_shake
+80	The t-shirt may be a bit tacky, how about a souvenir mug?	anger	strong_head_shake
+80	The t-shirt may be a bit tacky, how about a souvenir mug?	anger	slow_breath
+81	Finally.	neutral	light_head_shake
+81	Finally.	neutral	strong_head_shake
+81	Finally.	neutral	slow_breath
+81	Finally.	anger	light_head_shake
+81	Finally.	anger	strong_head_shake
+81	Finally.	anger	slow_breath
+82	We got it so let's go.	neutral	light_head_shake
+82	We got it so let's go.	neutral	strong_head_shake
+82	We got it so let's go.	neutral	slow_breath
+82	We got it so let's go.	anger	light_head_shake
+82	We got it so let's go.	anger	strong_head_shake
+82	We got it so let's go.	anger	slow_breath
+83	Thanks for the help.	neutral	strong_nod
+83	Thanks for the help.	neutral	nod
+83	Thanks for the help.	neutral	slow_breath
+83	Thanks for the help.	joy	strong_nod
+83	Thanks for the help.	joy	nod
+83	Thanks for the help.	joy	slow_breath
+84	Yeah, I know it's a good idea.	neutral	strong_nod
+84	Yeah, I know it's a good idea.	neutral	nod
+84	Yeah, I know it's a good idea.	neutral	slow_breath
+84	Yeah, I know it's a good idea.	joy	strong_nod
+84	Yeah, I know it's a good idea.	joy	nod
+84	Yeah, I know it's a good idea.	joy	slow_breath
+85	Are you sure about that?	neutral	light_head_shake
+85	Are you sure about that?	neutral	strong_head_shake
+85	Are you sure about that?	neutral	slow_breath
+85	Are you sure about that?	anger	light_head_shake
+85	Are you sure about that?	anger	strong_head_shake
+85	Are you sure about that?	anger	slow_breath
+86	Yeah I'm not so sure now that I think about it. Back to the drawing board.	neutral	light_head_shake
+86	Yeah I'm not so sure now that I think about it. Back to the drawing board.	neutral	strong_head_shake
+86	Yeah I'm not so sure now that I think about it. Back to the drawing board.	neutral	slow_breath
+86	Yeah I'm not so sure now that I think about it. Back to the drawing board.	anger	light_head_shake
+86	Yeah I'm not so sure now that I think about it. Back to the drawing board.	anger	strong_head_shake
+86	Yeah I'm not so sure now that I think about it. Back to the drawing board.	anger	slow_breath
+87	I was just testing you -- I think it's a TERRIBLE idea. I'm disappointed in your reaction, I have to say. What other options do we have?	neutral	light_head_shake
+87	I was just testing you -- I think it's a TERRIBLE idea. I'm disappointed in your reaction, I have to say. What other options do we have?	neutral	strong_head_shake
+87	I was just testing you -- I think it's a TERRIBLE idea. I'm disappointed in your reaction, I have to say. What other options do we have?	neutral	slow_breath
+87	I was just testing you -- I think it's a TERRIBLE idea. I'm disappointed in your reaction, I have to say. What other options do we have?	anger	light_head_shake
+87	I was just testing you -- I think it's a TERRIBLE idea. I'm disappointed in your reaction, I have to say. What other options do we have?	anger	strong_head_shake
+87	I was just testing you -- I think it's a TERRIBLE idea. I'm disappointed in your reaction, I have to say. What other options do we have?	anger	slow_breath
+88	You can probably find one of those T-shirts in a gift shop downtown.	neutral	light_head_shake
+88	You can probably find one of those T-shirts in a gift shop downtown.	neutral	strong_head_shake
+88	You can probably find one of those T-shirts in a gift shop downtown.	neutral	slow_breath
+88	You can probably find one of those T-shirts in a gift shop downtown.	anger	light_head_shake
+88	You can probably find one of those T-shirts in a gift shop downtown.	anger	strong_head_shake
+88	You can probably find one of those T-shirts in a gift shop downtown.	anger	slow_breath
+88	You can probably find one of those T-shirts in a gift shop downtown.	neutral	strong_nod
+88	You can probably find one of those T-shirts in a gift shop downtown.	neutral	nod
+88	You can probably find one of those T-shirts in a gift shop downtown.	joy	strong_nod
+88	You can probably find one of those T-shirts in a gift shop downtown.	joy	nod
+88	You can probably find one of those T-shirts in a gift shop downtown.	joy	slow_breath
+89	Actually, he doesn't usually wear casual shirts. He probably won't like it.	neutral	light_head_shake
+89	Actually, he doesn't usually wear casual shirts. He probably won't like it.	neutral	strong_head_shake
+89	Actually, he doesn't usually wear casual shirts. He probably won't like it.	neutral	slow_breath
+89	Actually, he doesn't usually wear casual shirts. He probably won't like it.	anger	light_head_shake
+89	Actually, he doesn't usually wear casual shirts. He probably won't like it.	anger	strong_head_shake
+89	Actually, he doesn't usually wear casual shirts. He probably won't like it.	anger	slow_breath
+90	Of course it's a great idea!	neutral	strong_nod
+90	Of course it's a great idea!	neutral	nod
+90	Of course it's a great idea!	neutral	slow_breath
+90	Of course it's a great idea!	joy	strong_nod
+90	Of course it's a great idea!	joy	nod
+90	Of course it's a great idea!	joy	slow_breath
+91	Maybe...but maybe it's too on-the-nose. Too obvious, you know what I mean?	neutral	light_head_shake
+91	Maybe...but maybe it's too on-the-nose. Too obvious, you know what I mean?	neutral	strong_head_shake
+91	Maybe...but maybe it's too on-the-nose. Too obvious, you know what I mean?	neutral	slow_breath
+91	Maybe...but maybe it's too on-the-nose. Too obvious, you know what I mean?	anger	light_head_shake
+91	Maybe...but maybe it's too on-the-nose. Too obvious, you know what I mean?	anger	strong_head_shake
+91	Maybe...but maybe it's too on-the-nose. Too obvious, you know what I mean?	anger	slow_breath
+92	Awesome - let's proceed.	neutral	strong_nod
+92	Awesome - let's proceed.	neutral	nod
+92	Awesome - let's proceed.	neutral	slow_breath
+92	Awesome - let's proceed.	joy	strong_nod
+92	Awesome - let's proceed.	joy	nod
+92	Awesome - let's proceed.	joy	slow_breath
+93	I think so too! I'll go find him one now!	neutral	strong_nod
+93	I think so too! I'll go find him one now!	neutral	nod
+93	I think so too! I'll go find him one now!	neutral	slow_breath
+93	I think so too! I'll go find him one now!	joy	strong_nod
+93	I think so too! I'll go find him one now!	joy	nod
+93	I think so too! I'll go find him one now!	joy	slow_breath
+94	Thanks, let's get him one!	neutral	strong_nod
+94	Thanks, let's get him one!	neutral	nod
+94	Thanks, let's get him one!	neutral	slow_breath
+94	Thanks, let's get him one!	joy	strong_nod
+94	Thanks, let's get him one!	joy	nod
+94	Thanks, let's get him one!	joy	slow_breath
+95	Where do you think I should look for one?	neutral	light_head_shake
+95	Where do you think I should look for one?	neutral	strong_head_shake
+95	Where do you think I should look for one?	neutral	slow_breath
+95	Where do you think I should look for one?	anger	light_head_shake
+95	Where do you think I should look for one?	anger	strong_head_shake
+95	Where do you think I should look for one?	anger	slow_breath
+95	Where do you think I should look for one?	neutral	strong_nod
+95	Where do you think I should look for one?	neutral	nod
+95	Where do you think I should look for one?	joy	strong_nod
+95	Where do you think I should look for one?	joy	nod
+95	Where do you think I should look for one?	joy	slow_breath
+96	I thought so, thanks!	neutral	strong_nod
+96	I thought so, thanks!	neutral	nod
+96	I thought so, thanks!	neutral	slow_breath
+96	I thought so, thanks!	joy	strong_nod
+96	I thought so, thanks!	joy	nod
+96	I thought so, thanks!	joy	slow_breath
+97	Thanks for the input, maybe it's cliche but I think he'll like it.	neutral	strong_nod
+97	Thanks for the input, maybe it's cliche but I think he'll like it.	neutral	nod
+97	Thanks for the input, maybe it's cliche but I think he'll like it.	neutral	slow_breath
+97	Thanks for the input, maybe it's cliche but I think he'll like it.	joy	strong_nod
+97	Thanks for the input, maybe it's cliche but I think he'll like it.	joy	nod
+97	Thanks for the input, maybe it's cliche but I think he'll like it.	joy	slow_breath
+98	Do you know where I can get one?	neutral	strong_nod
+98	Do you know where I can get one?	neutral	nod
+98	Do you know where I can get one?	neutral	slow_breath
+98	Do you know where I can get one?	joy	strong_nod
+98	Do you know where I can get one?	joy	nod
+98	Do you know where I can get one?	joy	slow_breath
+99	Where can I buy this shirt?	neutral	light_head_shake
+99	Where can I buy this shirt?	neutral	strong_head_shake
+99	Where can I buy this shirt?	neutral	slow_breath
+99	Where can I buy this shirt?	anger	light_head_shake
+99	Where can I buy this shirt?	anger	strong_head_shake
+99	Where can I buy this shirt?	anger	slow_breath
+99	Where can I buy this shirt?	neutral	strong_nod
+99	Where can I buy this shirt?	neutral	nod
+99	Where can I buy this shirt?	joy	strong_nod
+99	Where can I buy this shirt?	joy	nod
+99	Where can I buy this shirt?	joy	slow_breath
+100	Then that is what I will get him!	neutral	strong_nod
+100	Then that is what I will get him!	neutral	nod
+100	Then that is what I will get him!	neutral	slow_breath
+100	Then that is what I will get him!	joy	strong_nod
+100	Then that is what I will get him!	joy	nod
+100	Then that is what I will get him!	joy	slow_breath
+101	You think so? I'll take that into consideration.	neutral	light_head_shake
+101	You think so? I'll take that into consideration.	neutral	strong_head_shake
+101	You think so? I'll take that into consideration.	neutral	slow_breath
+101	You think so? I'll take that into consideration.	anger	light_head_shake
+101	You think so? I'll take that into consideration.	anger	strong_head_shake
+101	You think so? I'll take that into consideration.	anger	slow_breath
+102	There are so many things to choose from! i hope he would like an "I love LA" shirt.	neutral	strong_nod
+102	There are so many things to choose from! i hope he would like an "I love LA" shirt.	neutral	nod
+102	There are so many things to choose from! i hope he would like an "I love LA" shirt.	neutral	slow_breath
+102	There are so many things to choose from! i hope he would like an "I love LA" shirt.	joy	strong_nod
+102	There are so many things to choose from! i hope he would like an "I love LA" shirt.	joy	nod
+102	There are so many things to choose from! i hope he would like an "I love LA" shirt.	joy	slow_breath
+103	Thanks for the help.	neutral	strong_nod
+103	Thanks for the help.	neutral	nod
+103	Thanks for the help.	neutral	slow_breath
+103	Thanks for the help.	joy	strong_nod
+103	Thanks for the help.	joy	nod
+103	Thanks for the help.	joy	slow_breath
+104	You're sure he'll like it?	neutral	light_head_shake
+104	You're sure he'll like it?	neutral	strong_head_shake
+104	You're sure he'll like it?	neutral	slow_breath
+104	You're sure he'll like it?	anger	light_head_shake
+104	You're sure he'll like it?	anger	strong_head_shake
+104	You're sure he'll like it?	anger	slow_breath
+105	Hm, I wonder what my boyfriend will think?	neutral	light_head_shake
+105	Hm, I wonder what my boyfriend will think?	neutral	strong_head_shake
+105	Hm, I wonder what my boyfriend will think?	neutral	slow_breath
+105	Hm, I wonder what my boyfriend will think?	anger	light_head_shake
+105	Hm, I wonder what my boyfriend will think?	anger	strong_head_shake
+105	Hm, I wonder what my boyfriend will think?	anger	slow_breath
+105	Hm, I wonder what my boyfriend will think?	neutral	strong_nod
+105	Hm, I wonder what my boyfriend will think?	neutral	nod
+105	Hm, I wonder what my boyfriend will think?	joy	strong_nod
+105	Hm, I wonder what my boyfriend will think?	joy	nod
+105	Hm, I wonder what my boyfriend will think?	joy	slow_breath
+106	Thanks, that's what I'll do then.	neutral	strong_nod
+106	Thanks, that's what I'll do then.	neutral	nod
+106	Thanks, that's what I'll do then.	neutral	slow_breath
+106	Thanks, that's what I'll do then.	joy	strong_nod
+106	Thanks, that's what I'll do then.	joy	nod
+106	Thanks, that's what I'll do then.	joy	slow_breath
+107	I'm happy that he will like it	neutral	strong_nod
+107	I'm happy that he will like it	neutral	nod
+107	I'm happy that he will like it	neutral	slow_breath
+107	I'm happy that he will like it	joy	strong_nod
+107	I'm happy that he will like it	joy	nod
+107	I'm happy that he will like it	joy	slow_breath
+108	Cool. Let's swing by and get one on the way home.	neutral	strong_nod
+108	Cool. Let's swing by and get one on the way home.	neutral	nod
+108	Cool. Let's swing by and get one on the way home.	neutral	slow_breath
+108	Cool. Let's swing by and get one on the way home.	joy	strong_nod
+108	Cool. Let's swing by and get one on the way home.	joy	nod
+108	Cool. Let's swing by and get one on the way home.	joy	slow_breath
+109	Can you show me where those shirts are?	neutral	strong_nod
+109	Can you show me where those shirts are?	neutral	nod
+109	Can you show me where those shirts are?	neutral	slow_breath
+109	Can you show me where those shirts are?	joy	strong_nod
+109	Can you show me where those shirts are?	joy	nod
+109	Can you show me where those shirts are?	joy	slow_breath
+110	Okay then, anything else?	neutral	light_head_shake
+110	Okay then, anything else?	neutral	strong_head_shake
+110	Okay then, anything else?	neutral	slow_breath
+110	Okay then, anything else?	anger	light_head_shake
+110	Okay then, anything else?	anger	strong_head_shake
+110	Okay then, anything else?	anger	slow_breath
+111	It should be a black shirt, don't you think?	neutral	light_head_shake
+111	It should be a black shirt, don't you think?	neutral	strong_head_shake
+111	It should be a black shirt, don't you think?	neutral	slow_breath
+111	It should be a black shirt, don't you think?	anger	light_head_shake
+111	It should be a black shirt, don't you think?	anger	strong_head_shake
+111	It should be a black shirt, don't you think?	anger	slow_breath
+111	It should be a black shirt, don't you think?	neutral	strong_nod
+111	It should be a black shirt, don't you think?	neutral	nod
+111	It should be a black shirt, don't you think?	joy	strong_nod
+111	It should be a black shirt, don't you think?	joy	nod
+111	It should be a black shirt, don't you think?	joy	slow_breath
+112	I think that could work.	neutral	strong_nod
+112	I think that could work.	neutral	nod
+112	I think that could work.	neutral	slow_breath
+112	I think that could work.	joy	strong_nod
+112	I think that could work.	joy	nod
+112	I think that could work.	joy	slow_breath
+113	That's why I mentioned it.	neutral	light_head_shake
+113	That's why I mentioned it.	neutral	strong_head_shake
+113	That's why I mentioned it.	neutral	slow_breath
+113	That's why I mentioned it.	anger	light_head_shake
+113	That's why I mentioned it.	anger	strong_head_shake
+113	That's why I mentioned it.	anger	slow_breath
+114	Awesome, awesome, let's order one now!	neutral	strong_nod
+114	Awesome, awesome, let's order one now!	neutral	nod
+114	Awesome, awesome, let's order one now!	neutral	slow_breath
+114	Awesome, awesome, let's order one now!	joy	strong_nod
+114	Awesome, awesome, let's order one now!	joy	nod
+114	Awesome, awesome, let's order one now!	joy	slow_breath
+115	thanks a bunch	neutral	strong_nod
+115	thanks a bunch	neutral	nod
+115	thanks a bunch	neutral	slow_breath
+115	thanks a bunch	joy	strong_nod
+115	thanks a bunch	joy	nod
+115	thanks a bunch	joy	slow_breath
+118	Can't wait to see his reaction!	neutral	strong_nod
+118	Can't wait to see his reaction!	neutral	nod
+118	Can't wait to see his reaction!	neutral	slow_breath
+118	Can't wait to see his reaction!	joy	strong_nod
+118	Can't wait to see his reaction!	joy	nod
+118	Can't wait to see his reaction!	joy	slow_breath
+119	No, I need to find something better for him	neutral	light_head_shake
+119	No, I need to find something better for him	neutral	strong_head_shake
+119	No, I need to find something better for him	neutral	slow_breath
+119	No, I need to find something better for him	anger	light_head_shake
+119	No, I need to find something better for him	anger	strong_head_shake
+119	No, I need to find something better for him	anger	slow_breath
+120	It's an idea, I'm not sure yet. Can you help me think of some other gifts?	neutral	light_head_shake
+120	It's an idea, I'm not sure yet. Can you help me think of some other gifts?	neutral	strong_head_shake
+120	It's an idea, I'm not sure yet. Can you help me think of some other gifts?	neutral	slow_breath
+120	It's an idea, I'm not sure yet. Can you help me think of some other gifts?	anger	light_head_shake
+120	It's an idea, I'm not sure yet. Can you help me think of some other gifts?	anger	strong_head_shake
+120	It's an idea, I'm not sure yet. Can you help me think of some other gifts?	anger	slow_breath
+121	That's what I've been hearing all day! I'm getting one anyway!	neutral	light_head_shake
+121	That's what I've been hearing all day! I'm getting one anyway!	neutral	strong_head_shake
+121	That's what I've been hearing all day! I'm getting one anyway!	neutral	slow_breath
+121	That's what I've been hearing all day! I'm getting one anyway!	anger	light_head_shake
+121	That's what I've been hearing all day! I'm getting one anyway!	anger	strong_head_shake
+121	That's what I've been hearing all day! I'm getting one anyway!	anger	slow_breath
+122	Well sir, that is because you are human and extremely imperfect. Good day to you sir!	neutral	light_head_shake
+122	Well sir, that is because you are human and extremely imperfect. Good day to you sir!	neutral	strong_head_shake
+122	Well sir, that is because you are human and extremely imperfect. Good day to you sir!	neutral	slow_breath
+122	Well sir, that is because you are human and extremely imperfect. Good day to you sir!	anger	light_head_shake
+122	Well sir, that is because you are human and extremely imperfect. Good day to you sir!	anger	strong_head_shake
+122	Well sir, that is because you are human and extremely imperfect. Good day to you sir!	anger	slow_breath
+123	Do you have a better idea, genius?	neutral	light_head_shake
+123	Do you have a better idea, genius?	neutral	strong_head_shake
+123	Do you have a better idea, genius?	neutral	slow_breath
+123	Do you have a better idea, genius?	anger	light_head_shake
+123	Do you have a better idea, genius?	anger	strong_head_shake
+123	Do you have a better idea, genius?	anger	slow_breath
+124	I am going to get him the 'I love LA' shirt anyway!	neutral	light_head_shake
+124	I am going to get him the 'I love LA' shirt anyway!	neutral	strong_head_shake
+124	I am going to get him the 'I love LA' shirt anyway!	neutral	slow_breath
+124	I am going to get him the 'I love LA' shirt anyway!	anger	light_head_shake
+124	I am going to get him the 'I love LA' shirt anyway!	anger	strong_head_shake
+124	I am going to get him the 'I love LA' shirt anyway!	anger	slow_breath
+125	Ugh, never mind. You're no help.	neutral	light_head_shake
+125	Ugh, never mind. You're no help.	neutral	strong_head_shake
+125	Ugh, never mind. You're no help.	neutral	slow_breath
+125	Ugh, never mind. You're no help.	anger	light_head_shake
+125	Ugh, never mind. You're no help.	anger	strong_head_shake
+125	Ugh, never mind. You're no help.	anger	slow_breath
+126	Well then, what do you suggest? Since my ideas are so bad!	neutral	light_head_shake
+126	Well then, what do you suggest? Since my ideas are so bad!	neutral	strong_head_shake
+126	Well then, what do you suggest? Since my ideas are so bad!	neutral	slow_breath
+126	Well then, what do you suggest? Since my ideas are so bad!	anger	light_head_shake
+126	Well then, what do you suggest? Since my ideas are so bad!	anger	strong_head_shake
+126	Well then, what do you suggest? Since my ideas are so bad!	anger	slow_breath
+127	Well, I think he would love it so that's what I am going to get him.	neutral	light_head_shake
+127	Well, I think he would love it so that's what I am going to get him.	neutral	strong_head_shake
+127	Well, I think he would love it so that's what I am going to get him.	neutral	slow_breath
+127	Well, I think he would love it so that's what I am going to get him.	anger	light_head_shake
+127	Well, I think he would love it so that's what I am going to get him.	anger	strong_head_shake
+127	Well, I think he would love it so that's what I am going to get him.	anger	slow_breath
+128	Why do you think it's a cliche?	neutral	light_head_shake
+128	Why do you think it's a cliche?	neutral	strong_head_shake
+128	Why do you think it's a cliche?	neutral	slow_breath
+128	Why do you think it's a cliche?	anger	light_head_shake
+128	Why do you think it's a cliche?	anger	strong_head_shake
+128	Why do you think it's a cliche?	anger	slow_breath
+129	It's very easy to criticize and leave it at that. If you don't like the idea, why not help me come up with a better one instead of just shooting it down?	neutral	light_head_shake
+129	It's very easy to criticize and leave it at that. If you don't like the idea, why not help me come up with a better one instead of just shooting it down?	neutral	strong_head_shake
+129	It's very easy to criticize and leave it at that. If you don't like the idea, why not help me come up with a better one instead of just shooting it down?	neutral	slow_breath
+129	It's very easy to criticize and leave it at that. If you don't like the idea, why not help me come up with a better one instead of just shooting it down?	anger	light_head_shake
+129	It's very easy to criticize and leave it at that. If you don't like the idea, why not help me come up with a better one instead of just shooting it down?	anger	strong_head_shake
+129	It's very easy to criticize and leave it at that. If you don't like the idea, why not help me come up with a better one instead of just shooting it down?	anger	slow_breath
+130	Nevermind. I'll ask someone else.	neutral	light_head_shake
+130	Nevermind. I'll ask someone else.	neutral	strong_head_shake
+130	Nevermind. I'll ask someone else.	neutral	slow_breath
+130	Nevermind. I'll ask someone else.	anger	light_head_shake
+130	Nevermind. I'll ask someone else.	anger	strong_head_shake
+130	Nevermind. I'll ask someone else.	anger	slow_breath
+131	Well maybe you could share some ideas you have that aren't cliche.	neutral	light_head_shake
+131	Well maybe you could share some ideas you have that aren't cliche.	neutral	strong_head_shake
+131	Well maybe you could share some ideas you have that aren't cliche.	neutral	slow_breath
+131	Well maybe you could share some ideas you have that aren't cliche.	anger	light_head_shake
+131	Well maybe you could share some ideas you have that aren't cliche.	anger	strong_head_shake
+131	Well maybe you could share some ideas you have that aren't cliche.	anger	slow_breath
+132	That's so rude of you to say. I don't actually care what you think.	neutral	light_head_shake
+132	That's so rude of you to say. I don't actually care what you think.	neutral	strong_head_shake
+132	That's so rude of you to say. I don't actually care what you think.	neutral	slow_breath
+132	That's so rude of you to say. I don't actually care what you think.	anger	light_head_shake
+132	That's so rude of you to say. I don't actually care what you think.	anger	strong_head_shake
+132	That's so rude of you to say. I don't actually care what you think.	anger	slow_breath
+133	Do you have a better idea?	neutral	light_head_shake
+133	Do you have a better idea?	neutral	strong_head_shake
+133	Do you have a better idea?	neutral	slow_breath
+133	Do you have a better idea?	anger	light_head_shake
+133	Do you have a better idea?	anger	strong_head_shake
+133	Do you have a better idea?	anger	slow_breath
+134	You are a frustrating human being.	neutral	light_head_shake
+134	You are a frustrating human being.	neutral	strong_head_shake
+134	You are a frustrating human being.	neutral	slow_breath
+134	You are a frustrating human being.	anger	light_head_shake
+134	You are a frustrating human being.	anger	strong_head_shake
+134	You are a frustrating human being.	anger	slow_breath
+135	But that's why it's a cliche, people love them.	neutral	light_head_shake
+135	But that's why it's a cliche, people love them.	neutral	strong_head_shake
+135	But that's why it's a cliche, people love them.	neutral	slow_breath
+135	But that's why it's a cliche, people love them.	anger	light_head_shake
+135	But that's why it's a cliche, people love them.	anger	strong_head_shake
+135	But that's why it's a cliche, people love them.	anger	slow_breath
+135	But that's why it's a cliche, people love them.	neutral	strong_nod
+135	But that's why it's a cliche, people love them.	neutral	nod
+135	But that's why it's a cliche, people love them.	joy	strong_nod
+135	But that's why it's a cliche, people love them.	joy	nod
+135	But that's why it's a cliche, people love them.	joy	slow_breath
+136	is that bad	neutral	light_head_shake
+136	is that bad	neutral	strong_head_shake
+136	is that bad	neutral	slow_breath
+136	is that bad	anger	light_head_shake
+136	is that bad	anger	strong_head_shake
+136	is that bad	anger	slow_breath
+139	You're such a cliche	neutral	light_head_shake
+139	You're such a cliche	neutral	strong_head_shake
+139	You're such a cliche	neutral	slow_breath
+139	You're such a cliche	anger	light_head_shake
+139	You're such a cliche	anger	strong_head_shake
+139	You're such a cliche	anger	slow_breath
+140	But I think he will like an 'I love LA' shirt! Why are you so quick to judge? Come on, let's brainstorm some more, bud.	neutral	light_head_shake
+140	But I think he will like an 'I love LA' shirt! Why are you so quick to judge? Come on, let's brainstorm some more, bud.	neutral	strong_head_shake
+140	But I think he will like an 'I love LA' shirt! Why are you so quick to judge? Come on, let's brainstorm some more, bud.	neutral	slow_breath
+140	But I think he will like an 'I love LA' shirt! Why are you so quick to judge? Come on, let's brainstorm some more, bud.	anger	light_head_shake
+140	But I think he will like an 'I love LA' shirt! Why are you so quick to judge? Come on, let's brainstorm some more, bud.	anger	strong_head_shake
+140	But I think he will like an 'I love LA' shirt! Why are you so quick to judge? Come on, let's brainstorm some more, bud.	anger	slow_breath
+141	Tell me! What do you think I should get him then? Tell me now!	neutral	light_head_shake
+141	Tell me! What do you think I should get him then? Tell me now!	neutral	strong_head_shake
+141	Tell me! What do you think I should get him then? Tell me now!	neutral	slow_breath
+141	Tell me! What do you think I should get him then? Tell me now!	anger	light_head_shake
+141	Tell me! What do you think I should get him then? Tell me now!	anger	strong_head_shake
+141	Tell me! What do you think I should get him then? Tell me now!	anger	slow_breath
+142	At this rate I'll never find a good gift for him!	neutral	light_head_shake
+142	At this rate I'll never find a good gift for him!	neutral	strong_head_shake
+142	At this rate I'll never find a good gift for him!	neutral	slow_breath
+142	At this rate I'll never find a good gift for him!	anger	light_head_shake
+142	At this rate I'll never find a good gift for him!	anger	strong_head_shake
+142	At this rate I'll never find a good gift for him!	anger	slow_breath
+143	Why is that a cliche? I can't believe you would say that.	neutral	light_head_shake
+143	Why is that a cliche? I can't believe you would say that.	neutral	strong_head_shake
+143	Why is that a cliche? I can't believe you would say that.	neutral	slow_breath
+143	Why is that a cliche? I can't believe you would say that.	anger	light_head_shake
+143	Why is that a cliche? I can't believe you would say that.	anger	strong_head_shake
+143	Why is that a cliche? I can't believe you would say that.	anger	slow_breath
+144	Well, I hardly care what you think.	neutral	light_head_shake
+144	Well, I hardly care what you think.	neutral	strong_head_shake
+144	Well, I hardly care what you think.	neutral	slow_breath
+144	Well, I hardly care what you think.	anger	light_head_shake
+144	Well, I hardly care what you think.	anger	strong_head_shake
+144	Well, I hardly care what you think.	anger	slow_breath
+145	Well at least it's something, what did you get your partner then?!	neutral	light_head_shake
+145	Well at least it's something, what did you get your partner then?!	neutral	strong_head_shake
+145	Well at least it's something, what did you get your partner then?!	neutral	slow_breath
+145	Well at least it's something, what did you get your partner then?!	anger	light_head_shake
+145	Well at least it's something, what did you get your partner then?!	anger	strong_head_shake
+145	Well at least it's something, what did you get your partner then?!	anger	slow_breath
+146	Well, you're not much help!	neutral	light_head_shake
+146	Well, you're not much help!	neutral	strong_head_shake
+146	Well, you're not much help!	neutral	slow_breath
+146	Well, you're not much help!	anger	light_head_shake
+146	Well, you're not much help!	anger	strong_head_shake
+146	Well, you're not much help!	anger	slow_breath
+147	What did you just say?!?	neutral	light_head_shake
+147	What did you just say?!?	neutral	strong_head_shake
+147	What did you just say?!?	neutral	slow_breath
+147	What did you just say?!?	anger	light_head_shake
+147	What did you just say?!?	anger	strong_head_shake
+147	What did you just say?!?	anger	slow_breath
+148	Fine. Then I guess nothing will work.	neutral	light_head_shake
+148	Fine. Then I guess nothing will work.	neutral	strong_head_shake
+148	Fine. Then I guess nothing will work.	neutral	slow_breath
+148	Fine. Then I guess nothing will work.	anger	light_head_shake
+148	Fine. Then I guess nothing will work.	anger	strong_head_shake
+148	Fine. Then I guess nothing will work.	anger	slow_breath
+149	Well why don't you just make suggestions yourself then.	neutral	light_head_shake
+149	Well why don't you just make suggestions yourself then.	neutral	strong_head_shake
+149	Well why don't you just make suggestions yourself then.	neutral	slow_breath
+149	Well why don't you just make suggestions yourself then.	anger	light_head_shake
+149	Well why don't you just make suggestions yourself then.	anger	strong_head_shake
+149	Well why don't you just make suggestions yourself then.	anger	slow_breath
+150	It's not a cliche if you don't live in LA.	neutral	light_head_shake
+150	It's not a cliche if you don't live in LA.	neutral	strong_head_shake
+150	It's not a cliche if you don't live in LA.	neutral	slow_breath
+150	It's not a cliche if you don't live in LA.	anger	light_head_shake
+150	It's not a cliche if you don't live in LA.	anger	strong_head_shake
+150	It's not a cliche if you don't live in LA.	anger	slow_breath
+151	That's okay, I know that he will like it.	neutral	light_head_shake
+151	That's okay, I know that he will like it.	neutral	strong_head_shake
+151	That's okay, I know that he will like it.	neutral	slow_breath
+151	That's okay, I know that he will like it.	anger	light_head_shake
+151	That's okay, I know that he will like it.	anger	strong_head_shake
+151	That's okay, I know that he will like it.	anger	slow_breath
+151	That's okay, I know that he will like it.	neutral	strong_nod
+151	That's okay, I know that he will like it.	neutral	nod
+151	That's okay, I know that he will like it.	joy	strong_nod
+151	That's okay, I know that he will like it.	joy	nod
+151	That's okay, I know that he will like it.	joy	slow_breath
+152	How about one that says 'I hate L.A.'?	neutral	light_head_shake
+152	How about one that says 'I hate L.A.'?	neutral	strong_head_shake
+152	How about one that says 'I hate L.A.'?	neutral	slow_breath
+152	How about one that says 'I hate L.A.'?	anger	light_head_shake
+152	How about one that says 'I hate L.A.'?	anger	strong_head_shake
+152	How about one that says 'I hate L.A.'?	anger	slow_breath
+153	Wow, maybe you're a little cliche but that's okay!	neutral	light_head_shake
+153	Wow, maybe you're a little cliche but that's okay!	neutral	strong_head_shake
+153	Wow, maybe you're a little cliche but that's okay!	neutral	slow_breath
+153	Wow, maybe you're a little cliche but that's okay!	anger	light_head_shake
+153	Wow, maybe you're a little cliche but that's okay!	anger	strong_head_shake
+153	Wow, maybe you're a little cliche but that's okay!	anger	slow_breath
+154	Can you suggest something other than a Lakers shirt that wouldn't be considered clich'e.	neutral	light_head_shake
+154	Can you suggest something other than a Lakers shirt that wouldn't be considered clich'e.	neutral	strong_head_shake
+154	Can you suggest something other than a Lakers shirt that wouldn't be considered clich'e.	neutral	slow_breath
+154	Can you suggest something other than a Lakers shirt that wouldn't be considered clich'e.	anger	light_head_shake
+154	Can you suggest something other than a Lakers shirt that wouldn't be considered clich'e.	anger	strong_head_shake
+154	Can you suggest something other than a Lakers shirt that wouldn't be considered clich'e.	anger	slow_breath
+155	Well we can't all have novel ideas all the time, can we?	neutral	light_head_shake
+155	Well we can't all have novel ideas all the time, can we?	neutral	strong_head_shake
+155	Well we can't all have novel ideas all the time, can we?	neutral	slow_breath
+155	Well we can't all have novel ideas all the time, can we?	anger	light_head_shake
+155	Well we can't all have novel ideas all the time, can we?	anger	strong_head_shake
+155	Well we can't all have novel ideas all the time, can we?	anger	slow_breath
+156	Well give me a better idea then!	neutral	light_head_shake
+156	Well give me a better idea then!	neutral	strong_head_shake
+156	Well give me a better idea then!	neutral	slow_breath
+156	Well give me a better idea then!	anger	light_head_shake
+156	Well give me a better idea then!	anger	strong_head_shake
+156	Well give me a better idea then!	anger	slow_breath
+157	But we can think of better, less cliche shirts too!	neutral	light_head_shake
+157	But we can think of better, less cliche shirts too!	neutral	strong_head_shake
+157	But we can think of better, less cliche shirts too!	neutral	slow_breath
+157	But we can think of better, less cliche shirts too!	anger	light_head_shake
+157	But we can think of better, less cliche shirts too!	anger	strong_head_shake
+157	But we can think of better, less cliche shirts too!	anger	slow_breath
+157	But we can think of better, less cliche shirts too!	neutral	strong_nod
+157	But we can think of better, less cliche shirts too!	neutral	nod
+157	But we can think of better, less cliche shirts too!	joy	strong_nod
+157	But we can think of better, less cliche shirts too!	joy	nod
+157	But we can think of better, less cliche shirts too!	joy	slow_breath
+158	A Laker's T-shit is a cliche idea	neutral	light_head_shake
+158	A Laker's T-shit is a cliche idea	neutral	strong_head_shake
+158	A Laker's T-shit is a cliche idea	neutral	slow_breath
+158	A Laker's T-shit is a cliche idea	anger	light_head_shake
+158	A Laker's T-shit is a cliche idea	anger	strong_head_shake
+158	A Laker's T-shit is a cliche idea	anger	slow_breath
+159	Well, he might not think so. In fact, I think he'd like it a lot.	neutral	light_head_shake
+159	Well, he might not think so. In fact, I think he'd like it a lot.	neutral	strong_head_shake
+159	Well, he might not think so. In fact, I think he'd like it a lot.	neutral	slow_breath
+159	Well, he might not think so. In fact, I think he'd like it a lot.	anger	light_head_shake
+159	Well, he might not think so. In fact, I think he'd like it a lot.	anger	strong_head_shake
+159	Well, he might not think so. In fact, I think he'd like it a lot.	anger	slow_breath
+160	Well, what suggestions might you have?	neutral	light_head_shake
+160	Well, what suggestions might you have?	neutral	strong_head_shake
+160	Well, what suggestions might you have?	neutral	slow_breath
+160	Well, what suggestions might you have?	anger	light_head_shake
+160	Well, what suggestions might you have?	anger	strong_head_shake
+160	Well, what suggestions might you have?	anger	slow_breath
+161	Well, he doesn't own one and he's a robot so it wouldn't be cliche on him. Quite the opposite I believe.	neutral	light_head_shake
+161	Well, he doesn't own one and he's a robot so it wouldn't be cliche on him. Quite the opposite I believe.	neutral	strong_head_shake
+161	Well, he doesn't own one and he's a robot so it wouldn't be cliche on him. Quite the opposite I believe.	neutral	slow_breath
+161	Well, he doesn't own one and he's a robot so it wouldn't be cliche on him. Quite the opposite I believe.	anger	light_head_shake
+161	Well, he doesn't own one and he's a robot so it wouldn't be cliche on him. Quite the opposite I believe.	anger	strong_head_shake
+161	Well, he doesn't own one and he's a robot so it wouldn't be cliche on him. Quite the opposite I believe.	anger	slow_breath
+162	Well, never mind then.	neutral	light_head_shake
+162	Well, never mind then.	neutral	strong_head_shake
+162	Well, never mind then.	neutral	slow_breath
+162	Well, never mind then.	anger	light_head_shake
+162	Well, never mind then.	anger	strong_head_shake
+162	Well, never mind then.	anger	slow_breath
+163	I am regretting asking your opinon, but thanks for the help thus far.	neutral	light_head_shake
+163	I am regretting asking your opinon, but thanks for the help thus far.	neutral	strong_head_shake
+163	I am regretting asking your opinon, but thanks for the help thus far.	neutral	slow_breath
+163	I am regretting asking your opinon, but thanks for the help thus far.	anger	light_head_shake
+163	I am regretting asking your opinon, but thanks for the help thus far.	anger	strong_head_shake
+163	I am regretting asking your opinon, but thanks for the help thus far.	anger	slow_breath
+164	I hear you. But what else do you think I should get him?	neutral	light_head_shake
+164	I hear you. But what else do you think I should get him?	neutral	strong_head_shake
+164	I hear you. But what else do you think I should get him?	neutral	slow_breath
+164	I hear you. But what else do you think I should get him?	anger	light_head_shake
+164	I hear you. But what else do you think I should get him?	anger	strong_head_shake
+164	I hear you. But what else do you think I should get him?	anger	slow_breath
+165	What would you do then smarty?	neutral	light_head_shake
+165	What would you do then smarty?	neutral	strong_head_shake
+165	What would you do then smarty?	neutral	slow_breath
+165	What would you do then smarty?	anger	light_head_shake
+165	What would you do then smarty?	anger	strong_head_shake
+165	What would you do then smarty?	anger	slow_breath
+166	Well I'm doing the best that I can./	neutral	light_head_shake
+166	Well I'm doing the best that I can./	neutral	strong_head_shake
+166	Well I'm doing the best that I can./	neutral	slow_breath
+166	Well I'm doing the best that I can./	anger	light_head_shake
+166	Well I'm doing the best that I can./	anger	strong_head_shake
+166	Well I'm doing the best that I can./	anger	slow_breath
+167	Nah, I like the idea.	neutral	light_head_shake
+167	Nah, I like the idea.	neutral	strong_head_shake
+167	Nah, I like the idea.	neutral	slow_breath
+167	Nah, I like the idea.	anger	light_head_shake
+167	Nah, I like the idea.	anger	strong_head_shake
+167	Nah, I like the idea.	anger	slow_breath
+170	Why does that matter?	neutral	light_head_shake
+170	Why does that matter?	neutral	strong_head_shake
+170	Why does that matter?	neutral	slow_breath
+170	Why does that matter?	anger	light_head_shake
+170	Why does that matter?	anger	strong_head_shake
+170	Why does that matter?	anger	slow_breath
+171	yes you are right	neutral	light_head_shake
+171	yes you are right	neutral	strong_head_shake
+171	yes you are right	neutral	slow_breath
+171	yes you are right	anger	light_head_shake
+171	yes you are right	anger	strong_head_shake
+171	yes you are right	anger	slow_breath
+172	I don't think it is cliche at all, but is there something else you would suggest?	neutral	light_head_shake
+172	I don't think it is cliche at all, but is there something else you would suggest?	neutral	strong_head_shake
+172	I don't think it is cliche at all, but is there something else you would suggest?	neutral	slow_breath
+172	I don't think it is cliche at all, but is there something else you would suggest?	anger	light_head_shake
+172	I don't think it is cliche at all, but is there something else you would suggest?	anger	strong_head_shake
+172	I don't think it is cliche at all, but is there something else you would suggest?	anger	slow_breath
+173	OK, then what do you suggest instead?	neutral	light_head_shake
+173	OK, then what do you suggest instead?	neutral	strong_head_shake
+173	OK, then what do you suggest instead?	neutral	slow_breath
+173	OK, then what do you suggest instead?	anger	light_head_shake
+173	OK, then what do you suggest instead?	anger	strong_head_shake
+173	OK, then what do you suggest instead?	anger	slow_breath
+174	Can you be more helpful?	neutral	light_head_shake
+174	Can you be more helpful?	neutral	strong_head_shake
+174	Can you be more helpful?	neutral	slow_breath
+174	Can you be more helpful?	anger	light_head_shake
+174	Can you be more helpful?	anger	strong_head_shake
+174	Can you be more helpful?	anger	slow_breath
+175	Cliche? I thought this is Ell-eh.	neutral	light_head_shake
+175	Cliche? I thought this is Ell-eh.	neutral	strong_head_shake
+175	Cliche? I thought this is Ell-eh.	neutral	slow_breath
+175	Cliche? I thought this is Ell-eh.	anger	light_head_shake
+175	Cliche? I thought this is Ell-eh.	anger	strong_head_shake
+175	Cliche? I thought this is Ell-eh.	anger	slow_breath
+176	Hmm. Let me think... How about a hat?	neutral	light_head_shake
+176	Hmm. Let me think... How about a hat?	neutral	strong_head_shake
+176	Hmm. Let me think... How about a hat?	neutral	slow_breath
+176	Hmm. Let me think... How about a hat?	anger	light_head_shake
+176	Hmm. Let me think... How about a hat?	anger	strong_head_shake
+176	Hmm. Let me think... How about a hat?	anger	slow_breath
+177	Well,then I can order shirt with very personalized shirt with message 'I love you in LA'	neutral	light_head_shake
+177	Well,then I can order shirt with very personalized shirt with message 'I love you in LA'	neutral	strong_head_shake
+177	Well,then I can order shirt with very personalized shirt with message 'I love you in LA'	neutral	slow_breath
+177	Well,then I can order shirt with very personalized shirt with message 'I love you in LA'	anger	light_head_shake
+177	Well,then I can order shirt with very personalized shirt with message 'I love you in LA'	anger	strong_head_shake
+177	Well,then I can order shirt with very personalized shirt with message 'I love you in LA'	anger	slow_breath
+178	Well maybe you are cliche.	neutral	light_head_shake
+178	Well maybe you are cliche.	neutral	strong_head_shake
+178	Well maybe you are cliche.	neutral	slow_breath
+178	Well maybe you are cliche.	anger	light_head_shake
+178	Well maybe you are cliche.	anger	strong_head_shake
+178	Well maybe you are cliche.	anger	slow_breath
+179	Oh my gosh, I'm terrible at this, what will I do?	neutral	light_head_shake
+179	Oh my gosh, I'm terrible at this, what will I do?	neutral	strong_head_shake
+179	Oh my gosh, I'm terrible at this, what will I do?	neutral	slow_breath
+179	Oh my gosh, I'm terrible at this, what will I do?	anger	light_head_shake
+179	Oh my gosh, I'm terrible at this, what will I do?	anger	strong_head_shake
+179	Oh my gosh, I'm terrible at this, what will I do?	anger	slow_breath
+180	I disagree strongly with you, but okay.	neutral	light_head_shake
+180	I disagree strongly with you, but okay.	neutral	strong_head_shake
+180	I disagree strongly with you, but okay.	neutral	slow_breath
+180	I disagree strongly with you, but okay.	anger	light_head_shake
+180	I disagree strongly with you, but okay.	anger	strong_head_shake
+180	I disagree strongly with you, but okay.	anger	slow_breath
+181	You're right, but it's so difficult-maybe you could make another suggestion?	neutral	light_head_shake
+181	You're right, but it's so difficult-maybe you could make another suggestion?	neutral	strong_head_shake
+181	You're right, but it's so difficult-maybe you could make another suggestion?	neutral	slow_breath
+181	You're right, but it's so difficult-maybe you could make another suggestion?	anger	light_head_shake
+181	You're right, but it's so difficult-maybe you could make another suggestion?	anger	strong_head_shake
+181	You're right, but it's so difficult-maybe you could make another suggestion?	anger	slow_breath
+182	Maybe, but maybe a cliche would be a perfect gift. I'm thinking it might just be.	neutral	strong_nod
+182	Maybe, but maybe a cliche would be a perfect gift. I'm thinking it might just be.	neutral	nod
+182	Maybe, but maybe a cliche would be a perfect gift. I'm thinking it might just be.	neutral	slow_breath
+182	Maybe, but maybe a cliche would be a perfect gift. I'm thinking it might just be.	joy	strong_nod
+182	Maybe, but maybe a cliche would be a perfect gift. I'm thinking it might just be.	joy	nod
+182	Maybe, but maybe a cliche would be a perfect gift. I'm thinking it might just be.	joy	slow_breath
+183	Well then, what else would you recommend?	neutral	light_head_shake
+183	Well then, what else would you recommend?	neutral	strong_head_shake
+183	Well then, what else would you recommend?	neutral	slow_breath
+183	Well then, what else would you recommend?	anger	light_head_shake
+183	Well then, what else would you recommend?	anger	strong_head_shake
+183	Well then, what else would you recommend?	anger	slow_breath
+184	Let's think of other ideas, then!	neutral	strong_nod
+184	Let's think of other ideas, then!	neutral	nod
+184	Let's think of other ideas, then!	neutral	slow_breath
+184	Let's think of other ideas, then!	joy	strong_nod
+184	Let's think of other ideas, then!	joy	nod
+184	Let's think of other ideas, then!	joy	slow_breath
+185	I know it is, but I think he'd like it anyway.	neutral	light_head_shake
+185	I know it is, but I think he'd like it anyway.	neutral	strong_head_shake
+185	I know it is, but I think he'd like it anyway.	neutral	slow_breath
+185	I know it is, but I think he'd like it anyway.	anger	light_head_shake
+185	I know it is, but I think he'd like it anyway.	anger	strong_head_shake
+185	I know it is, but I think he'd like it anyway.	anger	slow_breath
+186	I still like the idea.	neutral	light_head_shake
+186	I still like the idea.	neutral	strong_head_shake
+186	I still like the idea.	neutral	slow_breath
+186	I still like the idea.	anger	light_head_shake
+186	I still like the idea.	anger	strong_head_shake
+186	I still like the idea.	anger	slow_breath
+187	Okay, well, let's try something else.	neutral	light_head_shake
+187	Okay, well, let's try something else.	neutral	strong_head_shake
+187	Okay, well, let's try something else.	neutral	slow_breath
+187	Okay, well, let's try something else.	anger	light_head_shake
+187	Okay, well, let's try something else.	anger	strong_head_shake
+187	Okay, well, let's try something else.	anger	slow_breath
+188	Cliches are cliches for a reason	neutral	light_head_shake
+188	Cliches are cliches for a reason	neutral	strong_head_shake
+188	Cliches are cliches for a reason	neutral	slow_breath
+188	Cliches are cliches for a reason	anger	light_head_shake
+188	Cliches are cliches for a reason	anger	strong_head_shake
+188	Cliches are cliches for a reason	anger	slow_breath
+190	I wouldn't want that. Any other suggestions? Perhaps, more local?	neutral	light_head_shake
+190	I wouldn't want that. Any other suggestions? Perhaps, more local?	neutral	strong_head_shake
+190	I wouldn't want that. Any other suggestions? Perhaps, more local?	neutral	slow_breath
+190	I wouldn't want that. Any other suggestions? Perhaps, more local?	anger	light_head_shake
+190	I wouldn't want that. Any other suggestions? Perhaps, more local?	anger	strong_head_shake
+190	I wouldn't want that. Any other suggestions? Perhaps, more local?	anger	slow_breath
+192	It's such a good idea, though.	neutral	light_head_shake
+192	It's such a good idea, though.	neutral	strong_head_shake
+192	It's such a good idea, though.	neutral	slow_breath
+192	It's such a good idea, though.	anger	light_head_shake
+192	It's such a good idea, though.	anger	strong_head_shake
+192	It's such a good idea, though.	anger	slow_breath
+192	It's such a good idea, though.	neutral	strong_nod
+192	It's such a good idea, though.	neutral	nod
+192	It's such a good idea, though.	joy	strong_nod
+192	It's such a good idea, though.	joy	nod
+192	It's such a good idea, though.	joy	slow_breath
+193	If you have a better suggestion, I'm all ears.	neutral	light_head_shake
+193	If you have a better suggestion, I'm all ears.	neutral	strong_head_shake
+193	If you have a better suggestion, I'm all ears.	neutral	slow_breath
+193	If you have a better suggestion, I'm all ears.	anger	light_head_shake
+193	If you have a better suggestion, I'm all ears.	anger	strong_head_shake
+193	If you have a better suggestion, I'm all ears.	anger	slow_breath
+194	Well I don't know what to get.	neutral	light_head_shake
+194	Well I don't know what to get.	neutral	strong_head_shake
+194	Well I don't know what to get.	neutral	slow_breath
+194	Well I don't know what to get.	anger	light_head_shake
+194	Well I don't know what to get.	anger	strong_head_shake
+194	Well I don't know what to get.	anger	slow_breath
+195	Yes, you may be right.	neutral	light_head_shake
+195	Yes, you may be right.	neutral	strong_head_shake
+195	Yes, you may be right.	neutral	slow_breath
+195	Yes, you may be right.	anger	light_head_shake
+195	Yes, you may be right.	anger	strong_head_shake
+195	Yes, you may be right.	anger	slow_breath
+196	I bet you don't have a better idea!	neutral	light_head_shake
+196	I bet you don't have a better idea!	neutral	strong_head_shake
+196	I bet you don't have a better idea!	neutral	slow_breath
+196	I bet you don't have a better idea!	anger	light_head_shake
+196	I bet you don't have a better idea!	anger	strong_head_shake
+196	I bet you don't have a better idea!	anger	slow_breath
+197	Then tell me what you would do.	neutral	light_head_shake
+197	Then tell me what you would do.	neutral	strong_head_shake
+197	Then tell me what you would do.	neutral	slow_breath
+197	Then tell me what you would do.	anger	light_head_shake
+197	Then tell me what you would do.	anger	strong_head_shake
+197	Then tell me what you would do.	anger	slow_breath
+198	Okay, do you have any other ideas.	neutral	light_head_shake
+198	Okay, do you have any other ideas.	neutral	strong_head_shake
+198	Okay, do you have any other ideas.	neutral	slow_breath
+198	Okay, do you have any other ideas.	anger	light_head_shake
+198	Okay, do you have any other ideas.	anger	strong_head_shake
+198	Okay, do you have any other ideas.	anger	slow_breath
+199	I guess. How about a map to the stars homes?	neutral	light_head_shake
+199	I guess. How about a map to the stars homes?	neutral	strong_head_shake
+199	I guess. How about a map to the stars homes?	neutral	slow_breath
+199	I guess. How about a map to the stars homes?	anger	light_head_shake
+199	I guess. How about a map to the stars homes?	anger	strong_head_shake
+199	I guess. How about a map to the stars homes?	anger	slow_breath
+200	Maybe, but it's what he would like.	neutral	light_head_shake
+200	Maybe, but it's what he would like.	neutral	strong_head_shake
+200	Maybe, but it's what he would like.	neutral	slow_breath
+200	Maybe, but it's what he would like.	anger	light_head_shake
+200	Maybe, but it's what he would like.	anger	strong_head_shake
+200	Maybe, but it's what he would like.	anger	slow_breath
+201	Well then how about a magnet of the city buildings?	neutral	light_head_shake
+201	Well then how about a magnet of the city buildings?	neutral	strong_head_shake
+201	Well then how about a magnet of the city buildings?	neutral	slow_breath
+201	Well then how about a magnet of the city buildings?	anger	light_head_shake
+201	Well then how about a magnet of the city buildings?	anger	strong_head_shake
+201	Well then how about a magnet of the city buildings?	anger	slow_breath
+202	Haha! No it's not! It's cute.	neutral	strong_nod
+202	Haha! No it's not! It's cute.	neutral	nod
+202	Haha! No it's not! It's cute.	neutral	slow_breath
+202	Haha! No it's not! It's cute.	joy	strong_nod
+202	Haha! No it's not! It's cute.	joy	nod
+202	Haha! No it's not! It's cute.	joy	slow_breath
+203	You are correct, it is such a cliche.	neutral	light_head_shake
+203	You are correct, it is such a cliche.	neutral	strong_head_shake
+203	You are correct, it is such a cliche.	neutral	slow_breath
+203	You are correct, it is such a cliche.	anger	light_head_shake
+203	You are correct, it is such a cliche.	anger	strong_head_shake
+203	You are correct, it is such a cliche.	anger	slow_breath
+204	Oh okay. How about a shirt with a famous site in LA?	neutral	light_head_shake
+204	Oh okay. How about a shirt with a famous site in LA?	neutral	strong_head_shake
+204	Oh okay. How about a shirt with a famous site in LA?	neutral	slow_breath
+204	Oh okay. How about a shirt with a famous site in LA?	anger	light_head_shake
+204	Oh okay. How about a shirt with a famous site in LA?	anger	strong_head_shake
+204	Oh okay. How about a shirt with a famous site in LA?	anger	slow_breath
+205	Okay well do you have any better ideas?	neutral	light_head_shake
+205	Okay well do you have any better ideas?	neutral	strong_head_shake
+205	Okay well do you have any better ideas?	neutral	slow_breath
+205	Okay well do you have any better ideas?	anger	light_head_shake
+205	Okay well do you have any better ideas?	anger	strong_head_shake
+205	Okay well do you have any better ideas?	anger	slow_breath
+206	Hmm, something that's not a tshirt then maybe?	neutral	light_head_shake
+206	Hmm, something that's not a tshirt then maybe?	neutral	strong_head_shake
+206	Hmm, something that's not a tshirt then maybe?	neutral	slow_breath
+206	Hmm, something that's not a tshirt then maybe?	anger	light_head_shake
+206	Hmm, something that's not a tshirt then maybe?	anger	strong_head_shake
+206	Hmm, something that's not a tshirt then maybe?	anger	slow_breath
+208	Oh well!	neutral	light_head_shake
+208	Oh well!	neutral	strong_head_shake
+208	Oh well!	neutral	slow_breath
+208	Oh well!	anger	light_head_shake
+208	Oh well!	anger	strong_head_shake
+208	Oh well!	anger	slow_breath
+209	That's exactly why it would be perfect!	neutral	strong_nod
+209	That's exactly why it would be perfect!	neutral	nod
+209	That's exactly why it would be perfect!	neutral	slow_breath
+209	That's exactly why it would be perfect!	joy	strong_nod
+209	That's exactly why it would be perfect!	joy	nod
+209	That's exactly why it would be perfect!	joy	slow_breath
+210	Yeah, I suppose you're right	neutral	light_head_shake
+210	Yeah, I suppose you're right	neutral	strong_head_shake
+210	Yeah, I suppose you're right	neutral	slow_breath
+210	Yeah, I suppose you're right	anger	light_head_shake
+210	Yeah, I suppose you're right	anger	strong_head_shake
+210	Yeah, I suppose you're right	anger	slow_breath
+211	Yeah I guess I can see that. Okay, what should I get him?	neutral	light_head_shake
+211	Yeah I guess I can see that. Okay, what should I get him?	neutral	strong_head_shake
+211	Yeah I guess I can see that. Okay, what should I get him?	neutral	slow_breath
+211	Yeah I guess I can see that. Okay, what should I get him?	anger	light_head_shake
+211	Yeah I guess I can see that. Okay, what should I get him?	anger	strong_head_shake
+211	Yeah I guess I can see that. Okay, what should I get him?	anger	slow_breath
+212	Why do you say that? If you think you can do better, then tell me what I should get.	neutral	light_head_shake
+212	Why do you say that? If you think you can do better, then tell me what I should get.	neutral	strong_head_shake
+212	Why do you say that? If you think you can do better, then tell me what I should get.	neutral	slow_breath
+212	Why do you say that? If you think you can do better, then tell me what I should get.	anger	light_head_shake
+212	Why do you say that? If you think you can do better, then tell me what I should get.	anger	strong_head_shake
+212	Why do you say that? If you think you can do better, then tell me what I should get.	anger	slow_breath
+213	Well he is MY boyfriend, so I guess I need to be the one that determines what to get him. Thanks anyway.	neutral	light_head_shake
+213	Well he is MY boyfriend, so I guess I need to be the one that determines what to get him. Thanks anyway.	neutral	strong_head_shake
+213	Well he is MY boyfriend, so I guess I need to be the one that determines what to get him. Thanks anyway.	neutral	slow_breath
+213	Well he is MY boyfriend, so I guess I need to be the one that determines what to get him. Thanks anyway.	anger	light_head_shake
+213	Well he is MY boyfriend, so I guess I need to be the one that determines what to get him. Thanks anyway.	anger	strong_head_shake
+213	Well he is MY boyfriend, so I guess I need to be the one that determines what to get him. Thanks anyway.	anger	slow_breath
+215	Cliche' or not, that's what I'm getting him.	neutral	light_head_shake
+215	Cliche' or not, that's what I'm getting him.	neutral	strong_head_shake
+215	Cliche' or not, that's what I'm getting him.	neutral	slow_breath
+215	Cliche' or not, that's what I'm getting him.	anger	light_head_shake
+215	Cliche' or not, that's what I'm getting him.	anger	strong_head_shake
+215	Cliche' or not, that's what I'm getting him.	anger	slow_breath
+216	I can get him whatever I want, Dude. You don't need to be rude	neutral	light_head_shake
+216	I can get him whatever I want, Dude. You don't need to be rude	neutral	strong_head_shake
+216	I can get him whatever I want, Dude. You don't need to be rude	neutral	slow_breath
+216	I can get him whatever I want, Dude. You don't need to be rude	anger	light_head_shake
+216	I can get him whatever I want, Dude. You don't need to be rude	anger	strong_head_shake
+216	I can get him whatever I want, Dude. You don't need to be rude	anger	slow_breath
+217	That's not very helpful!	neutral	light_head_shake
+217	That's not very helpful!	neutral	strong_head_shake
+217	That's not very helpful!	neutral	slow_breath
+217	That's not very helpful!	anger	light_head_shake
+217	That's not very helpful!	anger	strong_head_shake
+217	That's not very helpful!	anger	slow_breath
+218	Well, thanks for nothing then.	neutral	light_head_shake
+218	Well, thanks for nothing then.	neutral	strong_head_shake
+218	Well, thanks for nothing then.	neutral	slow_breath
+218	Well, thanks for nothing then.	anger	light_head_shake
+218	Well, thanks for nothing then.	anger	strong_head_shake
+218	Well, thanks for nothing then.	anger	slow_breath
+219	It may be cliche to you but remember I am only 3 months old.	neutral	light_head_shake
+219	It may be cliche to you but remember I am only 3 months old.	neutral	strong_head_shake
+219	It may be cliche to you but remember I am only 3 months old.	neutral	slow_breath
+219	It may be cliche to you but remember I am only 3 months old.	anger	light_head_shake
+219	It may be cliche to you but remember I am only 3 months old.	anger	strong_head_shake
+219	It may be cliche to you but remember I am only 3 months old.	anger	slow_breath
+220	You are a cliche.	neutral	light_head_shake
+220	You are a cliche.	neutral	strong_head_shake
+220	You are a cliche.	neutral	slow_breath
+220	You are a cliche.	anger	light_head_shake
+220	You are a cliche.	anger	strong_head_shake
+220	You are a cliche.	anger	slow_breath
+222	You don't have to be so rude.	neutral	light_head_shake
+222	You don't have to be so rude.	neutral	strong_head_shake
+222	You don't have to be so rude.	neutral	slow_breath
+222	You don't have to be so rude.	anger	light_head_shake
+222	You don't have to be so rude.	anger	strong_head_shake
+222	You don't have to be so rude.	anger	slow_breath
+224	I guess. I'm not sure what else to get?	neutral	light_head_shake
+224	I guess. I'm not sure what else to get?	neutral	strong_head_shake
+224	I guess. I'm not sure what else to get?	neutral	slow_breath
+224	I guess. I'm not sure what else to get?	anger	light_head_shake
+224	I guess. I'm not sure what else to get?	anger	strong_head_shake
+224	I guess. I'm not sure what else to get?	anger	slow_breath
+225	Wow aren't you so smart and funny.	neutral	light_head_shake
+225	Wow aren't you so smart and funny.	neutral	strong_head_shake
+225	Wow aren't you so smart and funny.	neutral	slow_breath
+225	Wow aren't you so smart and funny.	anger	light_head_shake
+225	Wow aren't you so smart and funny.	anger	strong_head_shake
+225	Wow aren't you so smart and funny.	anger	slow_breath
+226	Isn't that the point of souvenirs?	neutral	light_head_shake
+226	Isn't that the point of souvenirs?	neutral	strong_head_shake
+226	Isn't that the point of souvenirs?	neutral	slow_breath
+226	Isn't that the point of souvenirs?	anger	light_head_shake
+226	Isn't that the point of souvenirs?	anger	strong_head_shake
+226	Isn't that the point of souvenirs?	anger	slow_breath
+227	thats bad, huh	neutral	light_head_shake
+227	thats bad, huh	neutral	strong_head_shake
+227	thats bad, huh	neutral	slow_breath
+227	thats bad, huh	anger	light_head_shake
+227	thats bad, huh	anger	strong_head_shake
+227	thats bad, huh	anger	slow_breath
+229	I'm thinking it's a good choice though.	neutral	light_head_shake
+229	I'm thinking it's a good choice though.	neutral	strong_head_shake
+229	I'm thinking it's a good choice though.	neutral	slow_breath
+229	I'm thinking it's a good choice though.	anger	light_head_shake
+229	I'm thinking it's a good choice though.	anger	strong_head_shake
+229	I'm thinking it's a good choice though.	anger	slow_breath
+231	I don't care if it's a cliche. I think it's something he might like.	neutral	light_head_shake
+231	I don't care if it's a cliche. I think it's something he might like.	neutral	strong_head_shake
+231	I don't care if it's a cliche. I think it's something he might like.	neutral	slow_breath
+231	I don't care if it's a cliche. I think it's something he might like.	anger	light_head_shake
+231	I don't care if it's a cliche. I think it's something he might like.	anger	strong_head_shake
+231	I don't care if it's a cliche. I think it's something he might like.	anger	slow_breath
+232	Is there another non-Lakers item that would be acceptable?	neutral	light_head_shake
+232	Is there another non-Lakers item that would be acceptable?	neutral	strong_head_shake
+232	Is there another non-Lakers item that would be acceptable?	neutral	slow_breath
+232	Is there another non-Lakers item that would be acceptable?	anger	light_head_shake
+232	Is there another non-Lakers item that would be acceptable?	anger	strong_head_shake
+232	Is there another non-Lakers item that would be acceptable?	anger	slow_breath
+233	Who care's if it's cliche, it's a souvenir!	neutral	light_head_shake
+233	Who care's if it's cliche, it's a souvenir!	neutral	strong_head_shake
+233	Who care's if it's cliche, it's a souvenir!	neutral	slow_breath
+233	Who care's if it's cliche, it's a souvenir!	anger	light_head_shake
+233	Who care's if it's cliche, it's a souvenir!	anger	strong_head_shake
+233	Who care's if it's cliche, it's a souvenir!	anger	slow_breath
+234	Well that's the best idea I have	neutral	light_head_shake
+234	Well that's the best idea I have	neutral	strong_head_shake
+234	Well that's the best idea I have	neutral	slow_breath
+234	Well that's the best idea I have	anger	light_head_shake
+234	Well that's the best idea I have	anger	strong_head_shake
+234	Well that's the best idea I have	anger	slow_breath
+235	No it's not! I think it's cute.	neutral	light_head_shake
+235	No it's not! I think it's cute.	neutral	strong_head_shake
+235	No it's not! I think it's cute.	neutral	slow_breath
+235	No it's not! I think it's cute.	anger	light_head_shake
+235	No it's not! I think it's cute.	anger	strong_head_shake
+235	No it's not! I think it's cute.	anger	slow_breath
+236	So, what does that matter?	neutral	light_head_shake
+236	So, what does that matter?	neutral	strong_head_shake
+236	So, what does that matter?	neutral	slow_breath
+236	So, what does that matter?	anger	light_head_shake
+236	So, what does that matter?	anger	strong_head_shake
+236	So, what does that matter?	anger	slow_breath
+237	Do you have a better suggestion then?	neutral	light_head_shake
+237	Do you have a better suggestion then?	neutral	strong_head_shake
+237	Do you have a better suggestion then?	neutral	slow_breath
+237	Do you have a better suggestion then?	anger	light_head_shake
+237	Do you have a better suggestion then?	anger	strong_head_shake
+237	Do you have a better suggestion then?	anger	slow_breath
+238	Its still better than YOUR suggestion.	neutral	light_head_shake
+238	Its still better than YOUR suggestion.	neutral	strong_head_shake
+238	Its still better than YOUR suggestion.	neutral	slow_breath
+238	Its still better than YOUR suggestion.	anger	light_head_shake
+238	Its still better than YOUR suggestion.	anger	strong_head_shake
+238	Its still better than YOUR suggestion.	anger	slow_breath
+239	That's not fair, I'm trying really hard.	neutral	light_head_shake
+239	That's not fair, I'm trying really hard.	neutral	strong_head_shake
+239	That's not fair, I'm trying really hard.	neutral	slow_breath
+239	That's not fair, I'm trying really hard.	anger	light_head_shake
+239	That's not fair, I'm trying really hard.	anger	strong_head_shake
+239	That's not fair, I'm trying really hard.	anger	slow_breath
+240	That may be but I really do think he will like it very much.	neutral	light_head_shake
+240	That may be but I really do think he will like it very much.	neutral	strong_head_shake
+240	That may be but I really do think he will like it very much.	neutral	slow_breath
+240	That may be but I really do think he will like it very much.	anger	light_head_shake
+240	That may be but I really do think he will like it very much.	anger	strong_head_shake
+240	That may be but I really do think he will like it very much.	anger	slow_breath
+242	Thanks! I really think he will love it!	neutral	strong_nod
+242	Thanks! I really think he will love it!	neutral	nod
+242	Thanks! I really think he will love it!	neutral	slow_breath
+242	Thanks! I really think he will love it!	joy	strong_nod
+242	Thanks! I really think he will love it!	joy	nod
+242	Thanks! I really think he will love it!	joy	slow_breath
+243	Great, I think so too!	neutral	strong_nod
+243	Great, I think so too!	neutral	nod
+243	Great, I think so too!	neutral	slow_breath
+243	Great, I think so too!	joy	strong_nod
+243	Great, I think so too!	joy	nod
+243	Great, I think so too!	joy	slow_breath
+244	I thought so too! Do you know a good place to buy one?	neutral	strong_nod
+244	I thought so too! Do you know a good place to buy one?	neutral	nod
+244	I thought so too! Do you know a good place to buy one?	neutral	slow_breath
+244	I thought so too! Do you know a good place to buy one?	joy	strong_nod
+244	I thought so too! Do you know a good place to buy one?	joy	nod
+244	I thought so too! Do you know a good place to buy one?	joy	slow_breath
+245	Then that is settled!	neutral	strong_nod
+245	Then that is settled!	neutral	nod
+245	Then that is settled!	neutral	slow_breath
+245	Then that is settled!	joy	strong_nod
+245	Then that is settled!	joy	nod
+245	Then that is settled!	joy	slow_breath
+246	Let's go to the store right now!	neutral	strong_nod
+246	Let's go to the store right now!	neutral	nod
+246	Let's go to the store right now!	neutral	slow_breath
+246	Let's go to the store right now!	joy	strong_nod
+246	Let's go to the store right now!	joy	nod
+246	Let's go to the store right now!	joy	slow_breath
+248	Let's grab it then!	neutral	strong_nod
+248	Let's grab it then!	neutral	nod
+248	Let's grab it then!	neutral	slow_breath
+248	Let's grab it then!	joy	strong_nod
+248	Let's grab it then!	joy	nod
+248	Let's grab it then!	joy	slow_breath
+249	Great! I can't wait to see him in it. What color should I get?	neutral	strong_nod
+249	Great! I can't wait to see him in it. What color should I get?	neutral	nod
+249	Great! I can't wait to see him in it. What color should I get?	neutral	slow_breath
+249	Great! I can't wait to see him in it. What color should I get?	joy	strong_nod
+249	Great! I can't wait to see him in it. What color should I get?	joy	nod
+249	Great! I can't wait to see him in it. What color should I get?	joy	slow_breath
+250	I could get him one in his favorite color! I think he would really like that.	neutral	strong_nod
+250	I could get him one in his favorite color! I think he would really like that.	neutral	nod
+250	I could get him one in his favorite color! I think he would really like that.	neutral	slow_breath
+250	I could get him one in his favorite color! I think he would really like that.	joy	strong_nod
+250	I could get him one in his favorite color! I think he would really like that.	joy	nod
+250	I could get him one in his favorite color! I think he would really like that.	joy	slow_breath
+251	Thank you so much for your help!	neutral	strong_nod
+251	Thank you so much for your help!	neutral	nod
+251	Thank you so much for your help!	neutral	slow_breath
+251	Thank you so much for your help!	joy	strong_nod
+251	Thank you so much for your help!	joy	nod
+251	Thank you so much for your help!	joy	slow_breath
+252	You think? Oh, good because I think he'd really get a kick out of that!	neutral	strong_nod
+252	You think? Oh, good because I think he'd really get a kick out of that!	neutral	nod
+252	You think? Oh, good because I think he'd really get a kick out of that!	neutral	slow_breath
+252	You think? Oh, good because I think he'd really get a kick out of that!	joy	strong_nod
+252	You think? Oh, good because I think he'd really get a kick out of that!	joy	nod
+252	You think? Oh, good because I think he'd really get a kick out of that!	joy	slow_breath
+253	Fantastic! Let's stop in the next souvenir shop so I can pick it out!	neutral	strong_nod
+253	Fantastic! Let's stop in the next souvenir shop so I can pick it out!	neutral	nod
+253	Fantastic! Let's stop in the next souvenir shop so I can pick it out!	neutral	slow_breath
+253	Fantastic! Let's stop in the next souvenir shop so I can pick it out!	joy	strong_nod
+253	Fantastic! Let's stop in the next souvenir shop so I can pick it out!	joy	nod
+253	Fantastic! Let's stop in the next souvenir shop so I can pick it out!	joy	slow_breath
+255	Fantastic, I bet he'll love it!	neutral	strong_nod
+255	Fantastic, I bet he'll love it!	neutral	nod
+255	Fantastic, I bet he'll love it!	neutral	slow_breath
+255	Fantastic, I bet he'll love it!	joy	strong_nod
+255	Fantastic, I bet he'll love it!	joy	nod
+255	Fantastic, I bet he'll love it!	joy	slow_breath
+256	Good! I'm excited to see his reaction when I give it to him!	neutral	strong_nod
+256	Good! I'm excited to see his reaction when I give it to him!	neutral	nod
+256	Good! I'm excited to see his reaction when I give it to him!	neutral	slow_breath
+256	Good! I'm excited to see his reaction when I give it to him!	joy	strong_nod
+256	Good! I'm excited to see his reaction when I give it to him!	joy	nod
+256	Good! I'm excited to see his reaction when I give it to him!	joy	slow_breath
+259	Hah! Yes, especially since my name is LA!	neutral	strong_nod
+259	Hah! Yes, especially since my name is LA!	neutral	nod
+259	Hah! Yes, especially since my name is LA!	neutral	slow_breath
+259	Hah! Yes, especially since my name is LA!	joy	strong_nod
+259	Hah! Yes, especially since my name is LA!	joy	nod
+259	Hah! Yes, especially since my name is LA!	joy	slow_breath
+260	That's amazing!!	neutral	strong_nod
+260	That's amazing!!	neutral	nod
+260	That's amazing!!	neutral	slow_breath
+260	That's amazing!!	joy	strong_nod
+260	That's amazing!!	joy	nod
+260	That's amazing!!	joy	slow_breath
+261	I'm buying one - and a cap to go with it!	neutral	strong_nod
+261	I'm buying one - and a cap to go with it!	neutral	nod
+261	I'm buying one - and a cap to go with it!	neutral	slow_breath
+261	I'm buying one - and a cap to go with it!	joy	strong_nod
+261	I'm buying one - and a cap to go with it!	joy	nod
+261	I'm buying one - and a cap to go with it!	joy	slow_breath
+262	Great, where can I get one?	neutral	strong_nod
+262	Great, where can I get one?	neutral	nod
+262	Great, where can I get one?	neutral	slow_breath
+262	Great, where can I get one?	joy	strong_nod
+262	Great, where can I get one?	joy	nod
+262	Great, where can I get one?	joy	slow_breath
+263	Yes I think he will love it!	neutral	strong_nod
+263	Yes I think he will love it!	neutral	nod
+263	Yes I think he will love it!	neutral	slow_breath
+263	Yes I think he will love it!	joy	strong_nod
+263	Yes I think he will love it!	joy	nod
+263	Yes I think he will love it!	joy	slow_breath
+264	Yes! Perfect! Let's do it then!	neutral	strong_nod
+264	Yes! Perfect! Let's do it then!	neutral	nod
+264	Yes! Perfect! Let's do it then!	neutral	slow_breath
+264	Yes! Perfect! Let's do it then!	joy	strong_nod
+264	Yes! Perfect! Let's do it then!	joy	nod
+264	Yes! Perfect! Let's do it then!	joy	slow_breath
+265	Ha, let's do it then!	neutral	strong_nod
+265	Ha, let's do it then!	neutral	nod
+265	Ha, let's do it then!	neutral	slow_breath
+265	Ha, let's do it then!	joy	strong_nod
+265	Ha, let's do it then!	joy	nod
+265	Ha, let's do it then!	joy	slow_breath
+266	Thank you! I have lots of good ideas.	neutral	strong_nod
+266	Thank you! I have lots of good ideas.	neutral	nod
+266	Thank you! I have lots of good ideas.	neutral	slow_breath
+266	Thank you! I have lots of good ideas.	joy	strong_nod
+266	Thank you! I have lots of good ideas.	joy	nod
+266	Thank you! I have lots of good ideas.	joy	slow_breath
+267	Score- thanks for the help!	neutral	strong_nod
+267	Score- thanks for the help!	neutral	nod
+267	Score- thanks for the help!	neutral	slow_breath
+267	Score- thanks for the help!	joy	strong_nod
+267	Score- thanks for the help!	joy	nod
+267	Score- thanks for the help!	joy	slow_breath
+268	Great! Should I get him the hat and pants to match?	neutral	strong_nod
+268	Great! Should I get him the hat and pants to match?	neutral	nod
+268	Great! Should I get him the hat and pants to match?	neutral	slow_breath
+268	Great! Should I get him the hat and pants to match?	joy	strong_nod
+268	Great! Should I get him the hat and pants to match?	joy	nod
+268	Great! Should I get him the hat and pants to match?	joy	slow_breath
+271	What color should I get him?	neutral	strong_nod
+271	What color should I get him?	neutral	nod
+271	What color should I get him?	neutral	slow_breath
+271	What color should I get him?	joy	strong_nod
+271	What color should I get him?	joy	nod
+271	What color should I get him?	joy	slow_breath
+272	Thank you! I have lots of good ideas.	neutral	strong_nod
+272	Thank you! I have lots of good ideas.	neutral	nod
+272	Thank you! I have lots of good ideas.	neutral	slow_breath
+272	Thank you! I have lots of good ideas.	joy	strong_nod
+272	Thank you! I have lots of good ideas.	joy	nod
+272	Thank you! I have lots of good ideas.	joy	slow_breath
+274	Great! I think it would be such a fun gift!	neutral	strong_nod
+274	Great! I think it would be such a fun gift!	neutral	nod
+274	Great! I think it would be such a fun gift!	neutral	slow_breath
+274	Great! I think it would be such a fun gift!	joy	strong_nod
+274	Great! I think it would be such a fun gift!	joy	nod
+274	Great! I think it would be such a fun gift!	joy	slow_breath
+275	You're right, it'll be fantastic to see his reaction!	neutral	strong_nod
+275	You're right, it'll be fantastic to see his reaction!	neutral	nod
+275	You're right, it'll be fantastic to see his reaction!	neutral	slow_breath
+275	You're right, it'll be fantastic to see his reaction!	joy	strong_nod
+275	You're right, it'll be fantastic to see his reaction!	joy	nod
+275	You're right, it'll be fantastic to see his reaction!	joy	slow_breath
+276	Thats me chalk full of good ideas!	neutral	strong_nod
+276	Thats me chalk full of good ideas!	neutral	nod
+276	Thats me chalk full of good ideas!	neutral	slow_breath
+276	Thats me chalk full of good ideas!	joy	strong_nod
+276	Thats me chalk full of good ideas!	joy	nod
+276	Thats me chalk full of good ideas!	joy	slow_breath
+277	Yeah, I'm sure he'll get a kick out of it.	neutral	strong_nod
+277	Yeah, I'm sure he'll get a kick out of it.	neutral	nod
+277	Yeah, I'm sure he'll get a kick out of it.	neutral	slow_breath
+277	Yeah, I'm sure he'll get a kick out of it.	joy	strong_nod
+277	Yeah, I'm sure he'll get a kick out of it.	joy	nod
+277	Yeah, I'm sure he'll get a kick out of it.	joy	slow_breath
+278	I knew it, thanks!	neutral	strong_nod
+278	I knew it, thanks!	neutral	nod
+278	I knew it, thanks!	neutral	slow_breath
+278	I knew it, thanks!	joy	strong_nod
+278	I knew it, thanks!	joy	nod
+278	I knew it, thanks!	joy	slow_breath
+279	Great! I can probably find one pretty easy, too.	neutral	strong_nod
+279	Great! I can probably find one pretty easy, too.	neutral	nod
+279	Great! I can probably find one pretty easy, too.	neutral	slow_breath
+279	Great! I can probably find one pretty easy, too.	joy	strong_nod
+279	Great! I can probably find one pretty easy, too.	joy	nod
+279	Great! I can probably find one pretty easy, too.	joy	slow_breath
+280	I think he'll really like that!	neutral	strong_nod
+280	I think he'll really like that!	neutral	nod
+280	I think he'll really like that!	neutral	slow_breath
+280	I think he'll really like that!	joy	strong_nod
+280	I think he'll really like that!	joy	nod
+280	I think he'll really like that!	joy	slow_breath
+281	Oh good! What color should I get?	neutral	strong_nod
+281	Oh good! What color should I get?	neutral	nod
+281	Oh good! What color should I get?	neutral	slow_breath
+281	Oh good! What color should I get?	joy	strong_nod
+281	Oh good! What color should I get?	joy	nod
+281	Oh good! What color should I get?	joy	slow_breath
+283	I knew you'd love it!	neutral	strong_nod
+283	I knew you'd love it!	neutral	nod
+283	I knew you'd love it!	neutral	slow_breath
+283	I knew you'd love it!	joy	strong_nod
+283	I knew you'd love it!	joy	nod
+283	I knew you'd love it!	joy	slow_breath
+284	Really? I think so too!	neutral	strong_nod
+284	Really? I think so too!	neutral	nod
+284	Really? I think so too!	neutral	slow_breath
+284	Really? I think so too!	joy	strong_nod
+284	Really? I think so too!	joy	nod
+284	Really? I think so too!	joy	slow_breath
+285	Yay! Now I need to choose a color.	neutral	strong_nod
+285	Yay! Now I need to choose a color.	neutral	nod
+285	Yay! Now I need to choose a color.	neutral	slow_breath
+285	Yay! Now I need to choose a color.	joy	strong_nod
+285	Yay! Now I need to choose a color.	joy	nod
+285	Yay! Now I need to choose a color.	joy	slow_breath
+286	Thank you, you've saved the day!	neutral	strong_nod
+286	Thank you, you've saved the day!	neutral	nod
+286	Thank you, you've saved the day!	neutral	slow_breath
+286	Thank you, you've saved the day!	joy	strong_nod
+286	Thank you, you've saved the day!	joy	nod
+286	Thank you, you've saved the day!	joy	slow_breath
+287	Let's go pick one out together!	neutral	strong_nod
+287	Let's go pick one out together!	neutral	nod
+287	Let's go pick one out together!	neutral	slow_breath
+287	Let's go pick one out together!	joy	strong_nod
+287	Let's go pick one out together!	joy	nod
+287	Let's go pick one out together!	joy	slow_breath
+288	i tried my best	neutral	light_head_shake
+288	i tried my best	neutral	strong_head_shake
+288	i tried my best	neutral	slow_breath
+288	i tried my best	anger	light_head_shake
+288	i tried my best	anger	strong_head_shake
+288	i tried my best	anger	slow_breath
+289	I am sure he will like it.	neutral	light_head_shake
+289	I am sure he will like it.	neutral	strong_head_shake
+289	I am sure he will like it.	neutral	slow_breath
+289	I am sure he will like it.	anger	light_head_shake
+289	I am sure he will like it.	anger	strong_head_shake
+289	I am sure he will like it.	anger	slow_breath
+289	I am sure he will like it.	neutral	strong_nod
+289	I am sure he will like it.	neutral	nod
+289	I am sure he will like it.	joy	strong_nod
+289	I am sure he will like it.	joy	nod
+289	I am sure he will like it.	joy	slow_breath
+290	Great I shall go with it then!	neutral	strong_nod
+290	Great I shall go with it then!	neutral	nod
+290	Great I shall go with it then!	neutral	slow_breath
+290	Great I shall go with it then!	joy	strong_nod
+290	Great I shall go with it then!	joy	nod
+290	Great I shall go with it then!	joy	slow_breath
+291	Glad you're happy!	neutral	strong_nod
+291	Glad you're happy!	neutral	nod
+291	Glad you're happy!	neutral	slow_breath
+291	Glad you're happy!	joy	strong_nod
+291	Glad you're happy!	joy	nod
+291	Glad you're happy!	joy	slow_breath
+292	Awesome! I'm glad you agree.	neutral	strong_nod
+292	Awesome! I'm glad you agree.	neutral	nod
+292	Awesome! I'm glad you agree.	neutral	slow_breath
+292	Awesome! I'm glad you agree.	joy	strong_nod
+292	Awesome! I'm glad you agree.	joy	nod
+292	Awesome! I'm glad you agree.	joy	slow_breath
+293	Thank you so much! I'm going to get it right away.	neutral	strong_nod
+293	Thank you so much! I'm going to get it right away.	neutral	nod
+293	Thank you so much! I'm going to get it right away.	neutral	slow_breath
+293	Thank you so much! I'm going to get it right away.	joy	strong_nod
+293	Thank you so much! I'm going to get it right away.	joy	nod
+293	Thank you so much! I'm going to get it right away.	joy	slow_breath
+294	He's gonna love it!	neutral	strong_nod
+294	He's gonna love it!	neutral	nod
+294	He's gonna love it!	neutral	slow_breath
+294	He's gonna love it!	joy	strong_nod
+294	He's gonna love it!	joy	nod
+294	He's gonna love it!	joy	slow_breath
+295	Awesome, I'll get it for him!	neutral	strong_nod
+295	Awesome, I'll get it for him!	neutral	nod
+295	Awesome, I'll get it for him!	neutral	slow_breath
+295	Awesome, I'll get it for him!	joy	strong_nod
+295	Awesome, I'll get it for him!	joy	nod
+295	Awesome, I'll get it for him!	joy	slow_breath
+296	Great! I can't wait to see his reaction.	neutral	strong_nod
+296	Great! I can't wait to see his reaction.	neutral	nod
+296	Great! I can't wait to see his reaction.	neutral	slow_breath
+296	Great! I can't wait to see his reaction.	joy	strong_nod
+296	Great! I can't wait to see his reaction.	joy	nod
+296	Great! I can't wait to see his reaction.	joy	slow_breath
+297	I really hope he enjoys the shirt!	neutral	strong_nod
+297	I really hope he enjoys the shirt!	neutral	nod
+297	I really hope he enjoys the shirt!	neutral	slow_breath
+297	I really hope he enjoys the shirt!	joy	strong_nod
+297	I really hope he enjoys the shirt!	joy	nod
+297	I really hope he enjoys the shirt!	joy	slow_breath
+298	It will be fun to watch his face when he gets it.	neutral	strong_nod
+298	It will be fun to watch his face when he gets it.	neutral	nod
+298	It will be fun to watch his face when he gets it.	neutral	slow_breath
+298	It will be fun to watch his face when he gets it.	joy	strong_nod
+298	It will be fun to watch his face when he gets it.	joy	nod
+298	It will be fun to watch his face when he gets it.	joy	slow_breath
+299	I'm glad to have your input. It may have taken me a while to make a decision.	neutral	strong_nod
+299	I'm glad to have your input. It may have taken me a while to make a decision.	neutral	nod
+299	I'm glad to have your input. It may have taken me a while to make a decision.	neutral	slow_breath
+299	I'm glad to have your input. It may have taken me a while to make a decision.	joy	strong_nod
+299	I'm glad to have your input. It may have taken me a while to make a decision.	joy	nod
+299	I'm glad to have your input. It may have taken me a while to make a decision.	joy	slow_breath
+300	Yay, I'm so happy to hear that! Well, I'm gonna get one for him, for sure!	neutral	strong_nod
+300	Yay, I'm so happy to hear that! Well, I'm gonna get one for him, for sure!	neutral	nod
+300	Yay, I'm so happy to hear that! Well, I'm gonna get one for him, for sure!	neutral	slow_breath
+300	Yay, I'm so happy to hear that! Well, I'm gonna get one for him, for sure!	joy	strong_nod
+300	Yay, I'm so happy to hear that! Well, I'm gonna get one for him, for sure!	joy	nod
+300	Yay, I'm so happy to hear that! Well, I'm gonna get one for him, for sure!	joy	slow_breath
+301	Thanks for the help...	neutral	light_head_shake
+301	Thanks for the help...	neutral	strong_head_shake
+301	Thanks for the help...	neutral	slow_breath
+301	Thanks for the help...	anger	light_head_shake
+301	Thanks for the help...	anger	strong_head_shake
+301	Thanks for the help...	anger	slow_breath
+301	Thanks for the help...	neutral	strong_nod
+301	Thanks for the help...	neutral	nod
+301	Thanks for the help...	joy	strong_nod
+301	Thanks for the help...	joy	nod
+301	Thanks for the help...	joy	slow_breath
+302	I will think about that.	neutral	light_head_shake
+302	I will think about that.	neutral	strong_head_shake
+302	I will think about that.	neutral	slow_breath
+302	I will think about that.	anger	light_head_shake
+302	I will think about that.	anger	strong_head_shake
+302	I will think about that.	anger	slow_breath
+303	Actually, I don't think it is.	neutral	light_head_shake
+303	Actually, I don't think it is.	neutral	strong_head_shake
+303	Actually, I don't think it is.	neutral	slow_breath
+303	Actually, I don't think it is.	anger	light_head_shake
+303	Actually, I don't think it is.	anger	strong_head_shake
+303	Actually, I don't think it is.	anger	slow_breath
+304	Who would not like that? It is a perfect token of the trip.	neutral	strong_nod
+304	Who would not like that? It is a perfect token of the trip.	neutral	nod
+304	Who would not like that? It is a perfect token of the trip.	neutral	slow_breath
+304	Who would not like that? It is a perfect token of the trip.	joy	strong_nod
+304	Who would not like that? It is a perfect token of the trip.	joy	nod
+304	Who would not like that? It is a perfect token of the trip.	joy	slow_breath
+305	Thank you, I think he will be happy to know I was thinking about him.	neutral	strong_nod
+305	Thank you, I think he will be happy to know I was thinking about him.	neutral	nod
+305	Thank you, I think he will be happy to know I was thinking about him.	neutral	slow_breath
+305	Thank you, I think he will be happy to know I was thinking about him.	joy	strong_nod
+305	Thank you, I think he will be happy to know I was thinking about him.	joy	nod
+305	Thank you, I think he will be happy to know I was thinking about him.	joy	slow_breath
+306	I am so glad you liked my suggestion!	neutral	strong_nod
+306	I am so glad you liked my suggestion!	neutral	nod
+306	I am so glad you liked my suggestion!	neutral	slow_breath
+306	I am so glad you liked my suggestion!	joy	strong_nod
+306	I am so glad you liked my suggestion!	joy	nod
+306	I am so glad you liked my suggestion!	joy	slow_breath
+307	But maybe he won't really like it.......how about a pamphlet from this booth? He'd love that!	neutral	strong_nod
+307	But maybe he won't really like it.......how about a pamphlet from this booth? He'd love that!	neutral	nod
+307	But maybe he won't really like it.......how about a pamphlet from this booth? He'd love that!	neutral	slow_breath
+307	But maybe he won't really like it.......how about a pamphlet from this booth? He'd love that!	joy	strong_nod
+307	But maybe he won't really like it.......how about a pamphlet from this booth? He'd love that!	joy	nod
+307	But maybe he won't really like it.......how about a pamphlet from this booth? He'd love that!	joy	slow_breath
+308	Do you have any other suggestions?	neutral	light_head_shake
+308	Do you have any other suggestions?	neutral	strong_head_shake
+308	Do you have any other suggestions?	neutral	slow_breath
+308	Do you have any other suggestions?	anger	light_head_shake
+308	Do you have any other suggestions?	anger	strong_head_shake
+308	Do you have any other suggestions?	anger	slow_breath
+309	I could find something else I'm sure, LA is such an interesting place!	neutral	strong_nod
+309	I could find something else I'm sure, LA is such an interesting place!	neutral	nod
+309	I could find something else I'm sure, LA is such an interesting place!	neutral	slow_breath
+309	I could find something else I'm sure, LA is such an interesting place!	joy	strong_nod
+309	I could find something else I'm sure, LA is such an interesting place!	joy	nod
+309	I could find something else I'm sure, LA is such an interesting place!	joy	slow_breath
+310	I hope it is a great idea...	neutral	light_head_shake
+310	I hope it is a great idea...	neutral	strong_head_shake
+310	I hope it is a great idea...	neutral	slow_breath
+310	I hope it is a great idea...	anger	light_head_shake
+310	I hope it is a great idea...	anger	strong_head_shake
+310	I hope it is a great idea...	anger	slow_breath
+310	I hope it is a great idea...	neutral	strong_nod
+310	I hope it is a great idea...	neutral	nod
+310	I hope it is a great idea...	joy	strong_nod
+310	I hope it is a great idea...	joy	nod
+310	I hope it is a great idea...	joy	slow_breath
+311	Thanks! I computed it would be!	neutral	strong_nod
+311	Thanks! I computed it would be!	neutral	nod
+311	Thanks! I computed it would be!	neutral	slow_breath
+311	Thanks! I computed it would be!	joy	strong_nod
+311	Thanks! I computed it would be!	joy	nod
+311	Thanks! I computed it would be!	joy	slow_breath
+312	I know.	neutral	light_head_shake
+312	I know.	neutral	strong_head_shake
+312	I know.	neutral	slow_breath
+312	I know.	anger	light_head_shake
+312	I know.	anger	strong_head_shake
+312	I know.	anger	slow_breath
+313	Thank you.	neutral	light_head_shake
+313	Thank you.	neutral	strong_head_shake
+313	Thank you.	neutral	slow_breath
+313	Thank you.	anger	light_head_shake
+313	Thank you.	anger	strong_head_shake
+313	Thank you.	anger	slow_breath
+313	Thank you.	neutral	strong_nod
+313	Thank you.	neutral	nod
+313	Thank you.	joy	strong_nod
+313	Thank you.	joy	nod
+313	Thank you.	joy	slow_breath
+314	I guess it would be okay. Let's try to come up with other ideas!	neutral	strong_nod
+314	I guess it would be okay. Let's try to come up with other ideas!	neutral	nod
+314	I guess it would be okay. Let's try to come up with other ideas!	neutral	slow_breath
+314	I guess it would be okay. Let's try to come up with other ideas!	joy	strong_nod
+314	I guess it would be okay. Let's try to come up with other ideas!	joy	nod
+314	I guess it would be okay. Let's try to come up with other ideas!	joy	slow_breath
+316	No offense, but I think it's kind of a yawner idea on second thought. What can we come up with that's more fun?	neutral	light_head_shake
+316	No offense, but I think it's kind of a yawner idea on second thought. What can we come up with that's more fun?	neutral	strong_head_shake
+316	No offense, but I think it's kind of a yawner idea on second thought. What can we come up with that's more fun?	neutral	slow_breath
+316	No offense, but I think it's kind of a yawner idea on second thought. What can we come up with that's more fun?	anger	light_head_shake
+316	No offense, but I think it's kind of a yawner idea on second thought. What can we come up with that's more fun?	anger	strong_head_shake
+316	No offense, but I think it's kind of a yawner idea on second thought. What can we come up with that's more fun?	anger	slow_breath
+317	Well then, I guess he will get a "I love LA" shirt then.	neutral	light_head_shake
+317	Well then, I guess he will get a "I love LA" shirt then.	neutral	strong_head_shake
+317	Well then, I guess he will get a "I love LA" shirt then.	neutral	slow_breath
+317	Well then, I guess he will get a "I love LA" shirt then.	anger	light_head_shake
+317	Well then, I guess he will get a "I love LA" shirt then.	anger	strong_head_shake
+317	Well then, I guess he will get a "I love LA" shirt then.	anger	slow_breath
+318	Hm, but it might be too expensive. I'm not sure I want to spend the money.	neutral	light_head_shake
+318	Hm, but it might be too expensive. I'm not sure I want to spend the money.	neutral	strong_head_shake
+318	Hm, but it might be too expensive. I'm not sure I want to spend the money.	neutral	slow_breath
+318	Hm, but it might be too expensive. I'm not sure I want to spend the money.	anger	light_head_shake
+318	Hm, but it might be too expensive. I'm not sure I want to spend the money.	anger	strong_head_shake
+318	Hm, but it might be too expensive. I'm not sure I want to spend the money.	anger	slow_breath
+319	I suppose that would work.	neutral	light_head_shake
+319	I suppose that would work.	neutral	strong_head_shake
+319	I suppose that would work.	neutral	slow_breath
+319	I suppose that would work.	anger	light_head_shake
+319	I suppose that would work.	anger	strong_head_shake
+319	I suppose that would work.	anger	slow_breath
+320	I'm so excited to get him a shirt!	neutral	strong_nod
+320	I'm so excited to get him a shirt!	neutral	nod
+320	I'm so excited to get him a shirt!	neutral	slow_breath
+320	I'm so excited to get him a shirt!	joy	strong_nod
+320	I'm so excited to get him a shirt!	joy	nod
+320	I'm so excited to get him a shirt!	joy	slow_breath
+321	Do you really think he'll like it?	neutral	light_head_shake
+321	Do you really think he'll like it?	neutral	strong_head_shake
+321	Do you really think he'll like it?	neutral	slow_breath
+321	Do you really think he'll like it?	anger	light_head_shake
+321	Do you really think he'll like it?	anger	strong_head_shake
+321	Do you really think he'll like it?	anger	slow_breath
+321	Do you really think he'll like it?	neutral	strong_nod
+321	Do you really think he'll like it?	neutral	nod
+321	Do you really think he'll like it?	joy	strong_nod
+321	Do you really think he'll like it?	joy	nod
+321	Do you really think he'll like it?	joy	slow_breath
+322	thanks	neutral	strong_nod
+322	thanks	neutral	nod
+322	thanks	neutral	slow_breath
+322	thanks	joy	strong_nod
+322	thanks	joy	nod
+322	thanks	joy	slow_breath
+323	I think so too!	neutral	strong_nod
+323	I think so too!	neutral	nod
+323	I think so too!	neutral	slow_breath
+323	I think so too!	joy	strong_nod
+323	I think so too!	joy	nod
+323	I think so too!	joy	slow_breath
+324	On second thought I think we should choose something else.	neutral	light_head_shake
+324	On second thought I think we should choose something else.	neutral	strong_head_shake
+324	On second thought I think we should choose something else.	neutral	slow_breath
+324	On second thought I think we should choose something else.	anger	light_head_shake
+324	On second thought I think we should choose something else.	anger	strong_head_shake
+324	On second thought I think we should choose something else.	anger	slow_breath
+325	Yeah, thanks for the feedback, but maybe we should try something else?	neutral	light_head_shake
+325	Yeah, thanks for the feedback, but maybe we should try something else?	neutral	strong_head_shake
+325	Yeah, thanks for the feedback, but maybe we should try something else?	neutral	slow_breath
+325	Yeah, thanks for the feedback, but maybe we should try something else?	anger	light_head_shake
+325	Yeah, thanks for the feedback, but maybe we should try something else?	anger	strong_head_shake
+325	Yeah, thanks for the feedback, but maybe we should try something else?	anger	slow_breath
+326	You don't think there is something better to get?	neutral	light_head_shake
+326	You don't think there is something better to get?	neutral	strong_head_shake
+326	You don't think there is something better to get?	neutral	slow_breath
+326	You don't think there is something better to get?	anger	light_head_shake
+326	You don't think there is something better to get?	anger	strong_head_shake
+326	You don't think there is something better to get?	anger	slow_breath
+327	Okay, let's go get one I guess.	neutral	light_head_shake
+327	Okay, let's go get one I guess.	neutral	strong_head_shake
+327	Okay, let's go get one I guess.	neutral	slow_breath
+327	Okay, let's go get one I guess.	anger	light_head_shake
+327	Okay, let's go get one I guess.	anger	strong_head_shake
+327	Okay, let's go get one I guess.	anger	slow_breath
+328	I think that's a good choice.	neutral	strong_nod
+328	I think that's a good choice.	neutral	nod
+328	I think that's a good choice.	neutral	slow_breath
+328	I think that's a good choice.	joy	strong_nod
+328	I think that's a good choice.	joy	nod
+328	I think that's a good choice.	joy	slow_breath
+329	I need to pick something else for my boyfriend.	neutral	light_head_shake
+329	I need to pick something else for my boyfriend.	neutral	strong_head_shake
+329	I need to pick something else for my boyfriend.	neutral	slow_breath
+329	I need to pick something else for my boyfriend.	anger	light_head_shake
+329	I need to pick something else for my boyfriend.	anger	strong_head_shake
+329	I need to pick something else for my boyfriend.	anger	slow_breath
+330	I know, I know. (in a humourous manner).	neutral	strong_nod
+330	I know, I know. (in a humourous manner).	neutral	nod
+330	I know, I know. (in a humourous manner).	neutral	slow_breath
+330	I know, I know. (in a humourous manner).	joy	strong_nod
+330	I know, I know. (in a humourous manner).	joy	nod
+330	I know, I know. (in a humourous manner).	joy	slow_breath
+331	Cool, I thought so too.	neutral	strong_nod
+331	Cool, I thought so too.	neutral	nod
+331	Cool, I thought so too.	neutral	slow_breath
+331	Cool, I thought so too.	joy	strong_nod
+331	Cool, I thought so too.	joy	nod
+331	Cool, I thought so too.	joy	slow_breath
+332	Yeah, I think he'll like it	neutral	strong_nod
+332	Yeah, I think he'll like it	neutral	nod
+332	Yeah, I think he'll like it	neutral	slow_breath
+332	Yeah, I think he'll like it	joy	strong_nod
+332	Yeah, I think he'll like it	joy	nod
+332	Yeah, I think he'll like it	joy	slow_breath
+333	Thanks!	neutral	strong_nod
+333	Thanks!	neutral	nod
+333	Thanks!	neutral	slow_breath
+333	Thanks!	joy	strong_nod
+333	Thanks!	joy	nod
+333	Thanks!	joy	slow_breath
+334	Thank you! I thought of it all on my own!	neutral	strong_nod
+334	Thank you! I thought of it all on my own!	neutral	nod
+334	Thank you! I thought of it all on my own!	neutral	slow_breath
+334	Thank you! I thought of it all on my own!	joy	strong_nod
+334	Thank you! I thought of it all on my own!	joy	nod
+334	Thank you! I thought of it all on my own!	joy	slow_breath
+335	I think he'd like it. Let's think of some other ideas just in case.	neutral	strong_nod
+335	I think he'd like it. Let's think of some other ideas just in case.	neutral	nod
+335	I think he'd like it. Let's think of some other ideas just in case.	neutral	slow_breath
+335	I think he'd like it. Let's think of some other ideas just in case.	joy	strong_nod
+335	I think he'd like it. Let's think of some other ideas just in case.	joy	nod
+335	I think he'd like it. Let's think of some other ideas just in case.	joy	slow_breath
+336	Hm, yeah, it might be a good choice. He might really like it.	neutral	strong_nod
+336	Hm, yeah, it might be a good choice. He might really like it.	neutral	nod
+336	Hm, yeah, it might be a good choice. He might really like it.	neutral	slow_breath
+336	Hm, yeah, it might be a good choice. He might really like it.	joy	strong_nod
+336	Hm, yeah, it might be a good choice. He might really like it.	joy	nod
+336	Hm, yeah, it might be a good choice. He might really like it.	joy	slow_breath
+337	I'm going to go get one as soon as my shift is over!	neutral	strong_nod
+337	I'm going to go get one as soon as my shift is over!	neutral	nod
+337	I'm going to go get one as soon as my shift is over!	neutral	slow_breath
+337	I'm going to go get one as soon as my shift is over!	joy	strong_nod
+337	I'm going to go get one as soon as my shift is over!	joy	nod
+337	I'm going to go get one as soon as my shift is over!	joy	slow_breath
+338	You think it is? Maybe I'll get that then.	neutral	strong_nod
+338	You think it is? Maybe I'll get that then.	neutral	nod
+338	You think it is? Maybe I'll get that then.	neutral	slow_breath
+338	You think it is? Maybe I'll get that then.	joy	strong_nod
+338	You think it is? Maybe I'll get that then.	joy	nod
+338	You think it is? Maybe I'll get that then.	joy	slow_breath
+339	Ok, I will get him an "I love LA" shirt as a souveni!	neutral	strong_nod
+339	Ok, I will get him an "I love LA" shirt as a souveni!	neutral	nod
+339	Ok, I will get him an "I love LA" shirt as a souveni!	neutral	slow_breath
+339	Ok, I will get him an "I love LA" shirt as a souveni!	joy	strong_nod
+339	Ok, I will get him an "I love LA" shirt as a souveni!	joy	nod
+339	Ok, I will get him an "I love LA" shirt as a souveni!	joy	slow_breath
+340	Where can I get one for a good price?	neutral	strong_nod
+340	Where can I get one for a good price?	neutral	nod
+340	Where can I get one for a good price?	neutral	slow_breath
+340	Where can I get one for a good price?	joy	strong_nod
+340	Where can I get one for a good price?	joy	nod
+340	Where can I get one for a good price?	joy	slow_breath
+341	Oh really? I glad to hear that you think so. I may just get that for him then.	neutral	strong_nod
+341	Oh really? I glad to hear that you think so. I may just get that for him then.	neutral	nod
+341	Oh really? I glad to hear that you think so. I may just get that for him then.	neutral	slow_breath
+341	Oh really? I glad to hear that you think so. I may just get that for him then.	joy	strong_nod
+341	Oh really? I glad to hear that you think so. I may just get that for him then.	joy	nod
+341	Oh really? I glad to hear that you think so. I may just get that for him then.	joy	slow_breath
+342	I could come up with some more if you would like?	neutral	strong_nod
+342	I could come up with some more if you would like?	neutral	nod
+342	I could come up with some more if you would like?	neutral	slow_breath
+342	I could come up with some more if you would like?	joy	strong_nod
+342	I could come up with some more if you would like?	joy	nod
+342	I could come up with some more if you would like?	joy	slow_breath
+343	You think that the red color shirt will show how much I love him?	neutral	strong_nod
+343	You think that the red color shirt will show how much I love him?	neutral	nod
+343	You think that the red color shirt will show how much I love him?	neutral	slow_breath
+343	You think that the red color shirt will show how much I love him?	joy	strong_nod
+343	You think that the red color shirt will show how much I love him?	joy	nod
+343	You think that the red color shirt will show how much I love him?	joy	slow_breath
+344	Glad to hear it, let's see where to get one	neutral	strong_nod
+344	Glad to hear it, let's see where to get one	neutral	nod
+344	Glad to hear it, let's see where to get one	neutral	slow_breath
+344	Glad to hear it, let's see where to get one	joy	strong_nod
+344	Glad to hear it, let's see where to get one	joy	nod
+344	Glad to hear it, let's see where to get one	joy	slow_breath
+345	Great! I will go and get it now. Good Day!	neutral	strong_nod
+345	Great! I will go and get it now. Good Day!	neutral	nod
+345	Great! I will go and get it now. Good Day!	neutral	slow_breath
+345	Great! I will go and get it now. Good Day!	joy	strong_nod
+345	Great! I will go and get it now. Good Day!	joy	nod
+345	Great! I will go and get it now. Good Day!	joy	slow_breath
+346	Thanks! I think so too!	neutral	strong_nod
+346	Thanks! I think so too!	neutral	nod
+346	Thanks! I think so too!	neutral	slow_breath
+346	Thanks! I think so too!	joy	strong_nod
+346	Thanks! I think so too!	joy	nod
+346	Thanks! I think so too!	joy	slow_breath
+347	I wonder where I can find one!	neutral	strong_nod
+347	I wonder where I can find one!	neutral	nod
+347	I wonder where I can find one!	neutral	slow_breath
+347	I wonder where I can find one!	joy	strong_nod
+347	I wonder where I can find one!	joy	nod
+347	I wonder where I can find one!	joy	slow_breath
+348	Thank you for your opinion!	neutral	strong_nod
+348	Thank you for your opinion!	neutral	nod
+348	Thank you for your opinion!	neutral	slow_breath
+348	Thank you for your opinion!	joy	strong_nod
+348	Thank you for your opinion!	joy	nod
+348	Thank you for your opinion!	joy	slow_breath
+350	Should we go get one together?	neutral	strong_nod
+350	Should we go get one together?	neutral	nod
+350	Should we go get one together?	neutral	slow_breath
+350	Should we go get one together?	joy	strong_nod
+350	Should we go get one together?	joy	nod
+350	Should we go get one together?	joy	slow_breath
+351	Alright, let's go with that then.	neutral	strong_nod
+351	Alright, let's go with that then.	neutral	nod
+351	Alright, let's go with that then.	neutral	slow_breath
+351	Alright, let's go with that then.	joy	strong_nod
+351	Alright, let's go with that then.	joy	nod
+351	Alright, let's go with that then.	joy	slow_breath
+352	Great! That's what I'll get. It's something memorable and affordable. Thanks!	neutral	strong_nod
+352	Great! That's what I'll get. It's something memorable and affordable. Thanks!	neutral	nod
+352	Great! That's what I'll get. It's something memorable and affordable. Thanks!	neutral	slow_breath
+352	Great! That's what I'll get. It's something memorable and affordable. Thanks!	joy	strong_nod
+352	Great! That's what I'll get. It's something memorable and affordable. Thanks!	joy	nod
+352	Great! That's what I'll get. It's something memorable and affordable. Thanks!	joy	slow_breath
+355	Okay what size should I get?	neutral	strong_nod
+355	Okay what size should I get?	neutral	nod
+355	Okay what size should I get?	neutral	slow_breath
+355	Okay what size should I get?	joy	strong_nod
+355	Okay what size should I get?	joy	nod
+355	Okay what size should I get?	joy	slow_breath
+356	Great, let's get him that!	neutral	strong_nod
+356	Great, let's get him that!	neutral	nod
+356	Great, let's get him that!	neutral	slow_breath
+356	Great, let's get him that!	joy	strong_nod
+356	Great, let's get him that!	joy	nod
+356	Great, let's get him that!	joy	slow_breath
+357	Thanks! I try	neutral	strong_nod
+357	Thanks! I try	neutral	nod
+357	Thanks! I try	neutral	slow_breath
+357	Thanks! I try	joy	strong_nod
+357	Thanks! I try	joy	nod
+357	Thanks! I try	joy	slow_breath
+358	Do you know a good place to buy a t-shirt	neutral	strong_nod
+358	Do you know a good place to buy a t-shirt	neutral	nod
+358	Do you know a good place to buy a t-shirt	neutral	slow_breath
+358	Do you know a good place to buy a t-shirt	joy	strong_nod
+358	Do you know a good place to buy a t-shirt	joy	nod
+358	Do you know a good place to buy a t-shirt	joy	slow_breath
+359	Okay cool! So should we get it?	neutral	strong_nod
+359	Okay cool! So should we get it?	neutral	nod
+359	Okay cool! So should we get it?	neutral	slow_breath
+359	Okay cool! So should we get it?	joy	strong_nod
+359	Okay cool! So should we get it?	joy	nod
+359	Okay cool! So should we get it?	joy	slow_breath
+360	Thank you for the help! Do you know of any places I could try out while here in LA?	neutral	strong_nod
+360	Thank you for the help! Do you know of any places I could try out while here in LA?	neutral	nod
+360	Thank you for the help! Do you know of any places I could try out while here in LA?	neutral	slow_breath
+360	Thank you for the help! Do you know of any places I could try out while here in LA?	joy	strong_nod
+360	Thank you for the help! Do you know of any places I could try out while here in LA?	joy	nod
+360	Thank you for the help! Do you know of any places I could try out while here in LA?	joy	slow_breath
+361	Well what would you suggest then smarty pants?	neutral	light_head_shake
+361	Well what would you suggest then smarty pants?	neutral	strong_head_shake
+361	Well what would you suggest then smarty pants?	neutral	slow_breath
+361	Well what would you suggest then smarty pants?	anger	light_head_shake
+361	Well what would you suggest then smarty pants?	anger	strong_head_shake
+361	Well what would you suggest then smarty pants?	anger	slow_breath
+362	We can find something better I suppose	neutral	light_head_shake
+362	We can find something better I suppose	neutral	strong_head_shake
+362	We can find something better I suppose	neutral	slow_breath
+362	We can find something better I suppose	anger	light_head_shake
+362	We can find something better I suppose	anger	strong_head_shake
+362	We can find something better I suppose	anger	slow_breath
+363	Well, what would you do?	neutral	light_head_shake
+363	Well, what would you do?	neutral	strong_head_shake
+363	Well, what would you do?	neutral	slow_breath
+363	Well, what would you do?	anger	light_head_shake
+363	Well, what would you do?	anger	strong_head_shake
+363	Well, what would you do?	anger	slow_breath
+364	It is but I like being silly and cliche.	neutral	strong_nod
+364	It is but I like being silly and cliche.	neutral	nod
+364	It is but I like being silly and cliche.	neutral	slow_breath
+364	It is but I like being silly and cliche.	joy	strong_nod
+364	It is but I like being silly and cliche.	joy	nod
+364	It is but I like being silly and cliche.	joy	slow_breath
+368	Cliches can be romantic anyway!	neutral	strong_nod
+368	Cliches can be romantic anyway!	neutral	nod
+368	Cliches can be romantic anyway!	neutral	slow_breath
+368	Cliches can be romantic anyway!	joy	strong_nod
+368	Cliches can be romantic anyway!	joy	nod
+368	Cliches can be romantic anyway!	joy	slow_breath
+370	Awww, but I really like the idea!	neutral	light_head_shake
+370	Awww, but I really like the idea!	neutral	strong_head_shake
+370	Awww, but I really like the idea!	neutral	slow_breath
+370	Awww, but I really like the idea!	anger	light_head_shake
+370	Awww, but I really like the idea!	anger	strong_head_shake
+370	Awww, but I really like the idea!	anger	slow_breath
+370	Awww, but I really like the idea!	neutral	strong_nod
+370	Awww, but I really like the idea!	neutral	nod
+370	Awww, but I really like the idea!	joy	strong_nod
+370	Awww, but I really like the idea!	joy	nod
+370	Awww, but I really like the idea!	joy	slow_breath
+371	You really think so. Then I will have to think about somethink else that is more unique.	neutral	light_head_shake
+371	You really think so. Then I will have to think about somethink else that is more unique.	neutral	strong_head_shake
+371	You really think so. Then I will have to think about somethink else that is more unique.	neutral	slow_breath
+371	You really think so. Then I will have to think about somethink else that is more unique.	anger	light_head_shake
+371	You really think so. Then I will have to think about somethink else that is more unique.	anger	strong_head_shake
+371	You really think so. Then I will have to think about somethink else that is more unique.	anger	slow_breath
+373	Well do you have something that may make him happy?	neutral	light_head_shake
+373	Well do you have something that may make him happy?	neutral	strong_head_shake
+373	Well do you have something that may make him happy?	neutral	slow_breath
+373	Well do you have something that may make him happy?	anger	light_head_shake
+373	Well do you have something that may make him happy?	anger	strong_head_shake
+373	Well do you have something that may make him happy?	anger	slow_breath
+374	That's a bit rude! I know him better than you do and I feel he would love an I Love LA T-shirt!	neutral	light_head_shake
+374	That's a bit rude! I know him better than you do and I feel he would love an I Love LA T-shirt!	neutral	strong_head_shake
+374	That's a bit rude! I know him better than you do and I feel he would love an I Love LA T-shirt!	neutral	slow_breath
+374	That's a bit rude! I know him better than you do and I feel he would love an I Love LA T-shirt!	anger	light_head_shake
+374	That's a bit rude! I know him better than you do and I feel he would love an I Love LA T-shirt!	anger	strong_head_shake
+374	That's a bit rude! I know him better than you do and I feel he would love an I Love LA T-shirt!	anger	slow_breath
+375	Are cliches always so bad?	neutral	light_head_shake
+375	Are cliches always so bad?	neutral	strong_head_shake
+375	Are cliches always so bad?	neutral	slow_breath
+375	Are cliches always so bad?	anger	light_head_shake
+375	Are cliches always so bad?	anger	strong_head_shake
+375	Are cliches always so bad?	anger	slow_breath
+376	Gee, that's disappointing. We'll think of something else I guess!	neutral	light_head_shake
+376	Gee, that's disappointing. We'll think of something else I guess!	neutral	strong_head_shake
+376	Gee, that's disappointing. We'll think of something else I guess!	neutral	slow_breath
+376	Gee, that's disappointing. We'll think of something else I guess!	anger	light_head_shake
+376	Gee, that's disappointing. We'll think of something else I guess!	anger	strong_head_shake
+376	Gee, that's disappointing. We'll think of something else I guess!	anger	slow_breath
+377	Well,we can't all be as cool as you I guess.	neutral	light_head_shake
+377	Well,we can't all be as cool as you I guess.	neutral	strong_head_shake
+377	Well,we can't all be as cool as you I guess.	neutral	slow_breath
+377	Well,we can't all be as cool as you I guess.	anger	light_head_shake
+377	Well,we can't all be as cool as you I guess.	anger	strong_head_shake
+377	Well,we can't all be as cool as you I guess.	anger	slow_breath
+378	So is buying a Lakers shirt.	neutral	light_head_shake
+378	So is buying a Lakers shirt.	neutral	strong_head_shake
+378	So is buying a Lakers shirt.	neutral	slow_breath
+378	So is buying a Lakers shirt.	anger	light_head_shake
+378	So is buying a Lakers shirt.	anger	strong_head_shake
+378	So is buying a Lakers shirt.	anger	slow_breath
+379	Well, I'm running out of ideas!	neutral	light_head_shake
+379	Well, I'm running out of ideas!	neutral	strong_head_shake
+379	Well, I'm running out of ideas!	neutral	slow_breath
+379	Well, I'm running out of ideas!	anger	light_head_shake
+379	Well, I'm running out of ideas!	anger	strong_head_shake
+379	Well, I'm running out of ideas!	anger	slow_breath
+380	Well maybe you can come up with something more helpful?	neutral	light_head_shake
+380	Well maybe you can come up with something more helpful?	neutral	strong_head_shake
+380	Well maybe you can come up with something more helpful?	neutral	slow_breath
+380	Well maybe you can come up with something more helpful?	anger	light_head_shake
+380	Well maybe you can come up with something more helpful?	anger	strong_head_shake
+380	Well maybe you can come up with something more helpful?	anger	slow_breath
+381	Yeah, sorry I really don't like your tone of voice. Thanks for the comment, but could you just try to give me another gift option?	neutral	light_head_shake
+381	Yeah, sorry I really don't like your tone of voice. Thanks for the comment, but could you just try to give me another gift option?	neutral	strong_head_shake
+381	Yeah, sorry I really don't like your tone of voice. Thanks for the comment, but could you just try to give me another gift option?	neutral	slow_breath
+381	Yeah, sorry I really don't like your tone of voice. Thanks for the comment, but could you just try to give me another gift option?	anger	light_head_shake
+381	Yeah, sorry I really don't like your tone of voice. Thanks for the comment, but could you just try to give me another gift option?	anger	strong_head_shake
+381	Yeah, sorry I really don't like your tone of voice. Thanks for the comment, but could you just try to give me another gift option?	anger	slow_breath
+383	So that's a no. Any other ideas?	neutral	light_head_shake
+383	So that's a no. Any other ideas?	neutral	strong_head_shake
+383	So that's a no. Any other ideas?	neutral	slow_breath
+383	So that's a no. Any other ideas?	anger	light_head_shake
+383	So that's a no. Any other ideas?	anger	strong_head_shake
+383	So that's a no. Any other ideas?	anger	slow_breath
+384	You think so? I will probably get it anyways.	neutral	light_head_shake
+384	You think so? I will probably get it anyways.	neutral	strong_head_shake
+384	You think so? I will probably get it anyways.	neutral	slow_breath
+384	You think so? I will probably get it anyways.	anger	light_head_shake
+384	You think so? I will probably get it anyways.	anger	strong_head_shake
+384	You think so? I will probably get it anyways.	anger	slow_breath
+385	You don't have to be rude about it.	neutral	light_head_shake
+385	You don't have to be rude about it.	neutral	strong_head_shake
+385	You don't have to be rude about it.	neutral	slow_breath
+385	You don't have to be rude about it.	anger	light_head_shake
+385	You don't have to be rude about it.	anger	strong_head_shake
+385	You don't have to be rude about it.	anger	slow_breath
+386	Okay, well, I hear what you're saying, but I don't know if I agree. I think it might be the perfect gift for him!	neutral	light_head_shake
+386	Okay, well, I hear what you're saying, but I don't know if I agree. I think it might be the perfect gift for him!	neutral	strong_head_shake
+386	Okay, well, I hear what you're saying, but I don't know if I agree. I think it might be the perfect gift for him!	neutral	slow_breath
+386	Okay, well, I hear what you're saying, but I don't know if I agree. I think it might be the perfect gift for him!	anger	light_head_shake
+386	Okay, well, I hear what you're saying, but I don't know if I agree. I think it might be the perfect gift for him!	anger	strong_head_shake
+386	Okay, well, I hear what you're saying, but I don't know if I agree. I think it might be the perfect gift for him!	anger	slow_breath
+386	Okay, well, I hear what you're saying, but I don't know if I agree. I think it might be the perfect gift for him!	neutral	strong_nod
+386	Okay, well, I hear what you're saying, but I don't know if I agree. I think it might be the perfect gift for him!	neutral	nod
+386	Okay, well, I hear what you're saying, but I don't know if I agree. I think it might be the perfect gift for him!	joy	strong_nod
+386	Okay, well, I hear what you're saying, but I don't know if I agree. I think it might be the perfect gift for him!	joy	nod
+386	Okay, well, I hear what you're saying, but I don't know if I agree. I think it might be the perfect gift for him!	joy	slow_breath
+387	Aw it doesn't sound too bad, even if it's a bit cliche.	neutral	light_head_shake
+387	Aw it doesn't sound too bad, even if it's a bit cliche.	neutral	strong_head_shake
+387	Aw it doesn't sound too bad, even if it's a bit cliche.	neutral	slow_breath
+387	Aw it doesn't sound too bad, even if it's a bit cliche.	anger	light_head_shake
+387	Aw it doesn't sound too bad, even if it's a bit cliche.	anger	strong_head_shake
+387	Aw it doesn't sound too bad, even if it's a bit cliche.	anger	slow_breath
+388	So sorry I'm not an original creative thought machine.	neutral	light_head_shake
+388	So sorry I'm not an original creative thought machine.	neutral	strong_head_shake
+388	So sorry I'm not an original creative thought machine.	neutral	slow_breath
+388	So sorry I'm not an original creative thought machine.	anger	light_head_shake
+388	So sorry I'm not an original creative thought machine.	anger	strong_head_shake
+388	So sorry I'm not an original creative thought machine.	anger	slow_breath
+389	Well, what is your idea then?	neutral	light_head_shake
+389	Well, what is your idea then?	neutral	strong_head_shake
+389	Well, what is your idea then?	neutral	slow_breath
+389	Well, what is your idea then?	anger	light_head_shake
+389	Well, what is your idea then?	anger	strong_head_shake
+389	Well, what is your idea then?	anger	slow_breath
+390	Well I have to find him something.	neutral	light_head_shake
+390	Well I have to find him something.	neutral	strong_head_shake
+390	Well I have to find him something.	neutral	slow_breath
+390	Well I have to find him something.	anger	light_head_shake
+390	Well I have to find him something.	anger	strong_head_shake
+390	Well I have to find him something.	anger	slow_breath
+391	Help me think of something more original, please?	neutral	light_head_shake
+391	Help me think of something more original, please?	neutral	strong_head_shake
+391	Help me think of something more original, please?	neutral	slow_breath
+391	Help me think of something more original, please?	anger	light_head_shake
+391	Help me think of something more original, please?	anger	strong_head_shake
+391	Help me think of something more original, please?	anger	slow_breath
+392	Some people find joy in that which is cliche!	neutral	strong_nod
+392	Some people find joy in that which is cliche!	neutral	nod
+392	Some people find joy in that which is cliche!	neutral	slow_breath
+392	Some people find joy in that which is cliche!	joy	strong_nod
+392	Some people find joy in that which is cliche!	joy	nod
+392	Some people find joy in that which is cliche!	joy	slow_breath
+393	Yeah well, he's kind of cliche himself, so I'm sure he'll love it.	neutral	strong_nod
+393	Yeah well, he's kind of cliche himself, so I'm sure he'll love it.	neutral	nod
+393	Yeah well, he's kind of cliche himself, so I'm sure he'll love it.	neutral	slow_breath
+393	Yeah well, he's kind of cliche himself, so I'm sure he'll love it.	joy	strong_nod
+393	Yeah well, he's kind of cliche himself, so I'm sure he'll love it.	joy	nod
+393	Yeah well, he's kind of cliche himself, so I'm sure he'll love it.	joy	slow_breath
+394	Cliches can be cute!	neutral	strong_nod
+394	Cliches can be cute!	neutral	nod
+394	Cliches can be cute!	neutral	slow_breath
+394	Cliches can be cute!	joy	strong_nod
+394	Cliches can be cute!	joy	nod
+394	Cliches can be cute!	joy	slow_breath
+395	I know but I just love my boyfriend, and I think he will love the fact that I even thought about him.	neutral	strong_nod
+395	I know but I just love my boyfriend, and I think he will love the fact that I even thought about him.	neutral	nod
+395	I know but I just love my boyfriend, and I think he will love the fact that I even thought about him.	neutral	slow_breath
+395	I know but I just love my boyfriend, and I think he will love the fact that I even thought about him.	joy	strong_nod
+395	I know but I just love my boyfriend, and I think he will love the fact that I even thought about him.	joy	nod
+395	I know but I just love my boyfriend, and I think he will love the fact that I even thought about him.	joy	slow_breath
+396	Oh okay. How about a shirt with the map of California?	neutral	light_head_shake
+396	Oh okay. How about a shirt with the map of California?	neutral	strong_head_shake
+396	Oh okay. How about a shirt with the map of California?	neutral	slow_breath
+396	Oh okay. How about a shirt with the map of California?	anger	light_head_shake
+396	Oh okay. How about a shirt with the map of California?	anger	strong_head_shake
+396	Oh okay. How about a shirt with the map of California?	anger	slow_breath
+397	I don't mind cliches one bit...I think they're a hoot, to be honest!	neutral	strong_nod
+397	I don't mind cliches one bit...I think they're a hoot, to be honest!	neutral	nod
+397	I don't mind cliches one bit...I think they're a hoot, to be honest!	neutral	slow_breath
+397	I don't mind cliches one bit...I think they're a hoot, to be honest!	joy	strong_nod
+397	I don't mind cliches one bit...I think they're a hoot, to be honest!	joy	nod
+397	I don't mind cliches one bit...I think they're a hoot, to be honest!	joy	slow_breath
+398	Yeah, but don't you think he'll appreciate it?	neutral	light_head_shake
+398	Yeah, but don't you think he'll appreciate it?	neutral	strong_head_shake
+398	Yeah, but don't you think he'll appreciate it?	neutral	slow_breath
+398	Yeah, but don't you think he'll appreciate it?	anger	light_head_shake
+398	Yeah, but don't you think he'll appreciate it?	anger	strong_head_shake
+398	Yeah, but don't you think he'll appreciate it?	anger	slow_breath
+399	Sometimes it's good to stick with a classic.	neutral	strong_nod
+399	Sometimes it's good to stick with a classic.	neutral	nod
+399	Sometimes it's good to stick with a classic.	neutral	slow_breath
+399	Sometimes it's good to stick with a classic.	joy	strong_nod
+399	Sometimes it's good to stick with a classic.	joy	nod
+399	Sometimes it's good to stick with a classic.	joy	slow_breath
+400	Ok, then what else could I get him?	neutral	light_head_shake
+400	Ok, then what else could I get him?	neutral	strong_head_shake
+400	Ok, then what else could I get him?	neutral	slow_breath
+400	Ok, then what else could I get him?	anger	light_head_shake
+400	Ok, then what else could I get him?	anger	strong_head_shake
+400	Ok, then what else could I get him?	anger	slow_breath
+401	I know, but I think it may be perfect for him.	neutral	strong_nod
+401	I know, but I think it may be perfect for him.	neutral	nod
+401	I know, but I think it may be perfect for him.	neutral	slow_breath
+401	I know, but I think it may be perfect for him.	joy	strong_nod
+401	I know, but I think it may be perfect for him.	joy	nod
+401	I know, but I think it may be perfect for him.	joy	slow_breath
+402	It's not cliche, it's kitsch, he'll love it!	neutral	strong_nod
+402	It's not cliche, it's kitsch, he'll love it!	neutral	nod
+402	It's not cliche, it's kitsch, he'll love it!	neutral	slow_breath
+402	It's not cliche, it's kitsch, he'll love it!	joy	strong_nod
+402	It's not cliche, it's kitsch, he'll love it!	joy	nod
+402	It's not cliche, it's kitsch, he'll love it!	joy	slow_breath
+404	Most vacation souvenirs are cliche's - that's why we like them so much!	neutral	strong_nod
+404	Most vacation souvenirs are cliche's - that's why we like them so much!	neutral	nod
+404	Most vacation souvenirs are cliche's - that's why we like them so much!	neutral	slow_breath
+404	Most vacation souvenirs are cliche's - that's why we like them so much!	joy	strong_nod
+404	Most vacation souvenirs are cliche's - that's why we like them so much!	joy	nod
+404	Most vacation souvenirs are cliche's - that's why we like them so much!	joy	slow_breath
+405	Cant say you've been to LA if you don't have the tshirt	neutral	light_head_shake
+405	Cant say you've been to LA if you don't have the tshirt	neutral	strong_head_shake
+405	Cant say you've been to LA if you don't have the tshirt	neutral	slow_breath
+405	Cant say you've been to LA if you don't have the tshirt	anger	light_head_shake
+405	Cant say you've been to LA if you don't have the tshirt	anger	strong_head_shake
+405	Cant say you've been to LA if you don't have the tshirt	anger	slow_breath
+406	That fair enough! What would you recommend that isn't sports related but still in the spirit of Los Angeles?	neutral	light_head_shake
+406	That fair enough! What would you recommend that isn't sports related but still in the spirit of Los Angeles?	neutral	strong_head_shake
+406	That fair enough! What would you recommend that isn't sports related but still in the spirit of Los Angeles?	neutral	slow_breath
+406	That fair enough! What would you recommend that isn't sports related but still in the spirit of Los Angeles?	anger	light_head_shake
+406	That fair enough! What would you recommend that isn't sports related but still in the spirit of Los Angeles?	anger	strong_head_shake
+406	That fair enough! What would you recommend that isn't sports related but still in the spirit of Los Angeles?	anger	slow_breath
+406	That fair enough! What would you recommend that isn't sports related but still in the spirit of Los Angeles?	neutral	strong_nod
+406	That fair enough! What would you recommend that isn't sports related but still in the spirit of Los Angeles?	neutral	nod
+406	That fair enough! What would you recommend that isn't sports related but still in the spirit of Los Angeles?	joy	strong_nod
+406	That fair enough! What would you recommend that isn't sports related but still in the spirit of Los Angeles?	joy	nod
+406	That fair enough! What would you recommend that isn't sports related but still in the spirit of Los Angeles?	joy	slow_breath
+407	Cliche it is! You're right. On to another option	neutral	light_head_shake
+407	Cliche it is! You're right. On to another option	neutral	strong_head_shake
+407	Cliche it is! You're right. On to another option	neutral	slow_breath
+407	Cliche it is! You're right. On to another option	anger	light_head_shake
+407	Cliche it is! You're right. On to another option	anger	strong_head_shake
+407	Cliche it is! You're right. On to another option	anger	slow_breath
+407	Cliche it is! You're right. On to another option	neutral	strong_nod
+407	Cliche it is! You're right. On to another option	neutral	nod
+407	Cliche it is! You're right. On to another option	joy	strong_nod
+407	Cliche it is! You're right. On to another option	joy	nod
+407	Cliche it is! You're right. On to another option	joy	slow_breath
+408	I suppose it was a pretty lame idea!	neutral	light_head_shake
+408	I suppose it was a pretty lame idea!	neutral	strong_head_shake
+408	I suppose it was a pretty lame idea!	neutral	slow_breath
+408	I suppose it was a pretty lame idea!	anger	light_head_shake
+408	I suppose it was a pretty lame idea!	anger	strong_head_shake
+408	I suppose it was a pretty lame idea!	anger	slow_breath
+408	I suppose it was a pretty lame idea!	neutral	strong_nod
+408	I suppose it was a pretty lame idea!	neutral	nod
+408	I suppose it was a pretty lame idea!	joy	strong_nod
+408	I suppose it was a pretty lame idea!	joy	nod
+408	I suppose it was a pretty lame idea!	joy	slow_breath
+409	You're right, I should put more thought into his perfect gift.	neutral	light_head_shake
+409	You're right, I should put more thought into his perfect gift.	neutral	strong_head_shake
+409	You're right, I should put more thought into his perfect gift.	neutral	slow_breath
+409	You're right, I should put more thought into his perfect gift.	anger	light_head_shake
+409	You're right, I should put more thought into his perfect gift.	anger	strong_head_shake
+409	You're right, I should put more thought into his perfect gift.	anger	slow_breath
+410	It is, but that's the fun part!	neutral	strong_nod
+410	It is, but that's the fun part!	neutral	nod
+410	It is, but that's the fun part!	neutral	slow_breath
+410	It is, but that's the fun part!	joy	strong_nod
+410	It is, but that's the fun part!	joy	nod
+410	It is, but that's the fun part!	joy	slow_breath
+411	It's not a cliche, it's a classic!	neutral	strong_nod
+411	It's not a cliche, it's a classic!	neutral	nod
+411	It's not a cliche, it's a classic!	neutral	slow_breath
+411	It's not a cliche, it's a classic!	joy	strong_nod
+411	It's not a cliche, it's a classic!	joy	nod
+411	It's not a cliche, it's a classic!	joy	slow_breath
+412	Maybe, but he might love that about it.	neutral	light_head_shake
+412	Maybe, but he might love that about it.	neutral	strong_head_shake
+412	Maybe, but he might love that about it.	neutral	slow_breath
+412	Maybe, but he might love that about it.	anger	light_head_shake
+412	Maybe, but he might love that about it.	anger	strong_head_shake
+412	Maybe, but he might love that about it.	anger	slow_breath
+412	Maybe, but he might love that about it.	neutral	strong_nod
+412	Maybe, but he might love that about it.	neutral	nod
+412	Maybe, but he might love that about it.	joy	strong_nod
+412	Maybe, but he might love that about it.	joy	nod
+412	Maybe, but he might love that about it.	joy	slow_breath
+413	You don't think he likes LA?	neutral	light_head_shake
+413	You don't think he likes LA?	neutral	strong_head_shake
+413	You don't think he likes LA?	neutral	slow_breath
+413	You don't think he likes LA?	anger	light_head_shake
+413	You don't think he likes LA?	anger	strong_head_shake
+413	You don't think he likes LA?	anger	slow_breath
+414	It kind of is but my boyfriend and I love cliche!	neutral	strong_nod
+414	It kind of is but my boyfriend and I love cliche!	neutral	nod
+414	It kind of is but my boyfriend and I love cliche!	neutral	slow_breath
+414	It kind of is but my boyfriend and I love cliche!	joy	strong_nod
+414	It kind of is but my boyfriend and I love cliche!	joy	nod
+414	It kind of is but my boyfriend and I love cliche!	joy	slow_breath
+415	I'm glad I have your help, because you are very picky.	neutral	light_head_shake
+415	I'm glad I have your help, because you are very picky.	neutral	strong_head_shake
+415	I'm glad I have your help, because you are very picky.	neutral	slow_breath
+415	I'm glad I have your help, because you are very picky.	anger	light_head_shake
+415	I'm glad I have your help, because you are very picky.	anger	strong_head_shake
+415	I'm glad I have your help, because you are very picky.	anger	slow_breath
+416	Sometimes cliches are nice.	neutral	light_head_shake
+416	Sometimes cliches are nice.	neutral	strong_head_shake
+416	Sometimes cliches are nice.	neutral	slow_breath
+416	Sometimes cliches are nice.	anger	light_head_shake
+416	Sometimes cliches are nice.	anger	strong_head_shake
+416	Sometimes cliches are nice.	anger	slow_breath
+416	Sometimes cliches are nice.	neutral	strong_nod
+416	Sometimes cliches are nice.	neutral	nod
+416	Sometimes cliches are nice.	joy	strong_nod
+416	Sometimes cliches are nice.	joy	nod
+416	Sometimes cliches are nice.	joy	slow_breath
+417	Yeah you're right about that.	neutral	light_head_shake
+417	Yeah you're right about that.	neutral	strong_head_shake
+417	Yeah you're right about that.	neutral	slow_breath
+417	Yeah you're right about that.	anger	light_head_shake
+417	Yeah you're right about that.	anger	strong_head_shake
+417	Yeah you're right about that.	anger	slow_breath
+418	That's true, let's find something better!	neutral	strong_nod
+418	That's true, let's find something better!	neutral	nod
+418	That's true, let's find something better!	neutral	slow_breath
+418	That's true, let's find something better!	joy	strong_nod
+418	That's true, let's find something better!	joy	nod
+418	That's true, let's find something better!	joy	slow_breath
+419	is that bad?	neutral	light_head_shake
+419	is that bad?	neutral	strong_head_shake
+419	is that bad?	neutral	slow_breath
+419	is that bad?	anger	light_head_shake
+419	is that bad?	anger	strong_head_shake
+419	is that bad?	anger	slow_breath
+420	That's okay, I'm going to get it anyways.	neutral	light_head_shake
+420	That's okay, I'm going to get it anyways.	neutral	strong_head_shake
+420	That's okay, I'm going to get it anyways.	neutral	slow_breath
+420	That's okay, I'm going to get it anyways.	anger	light_head_shake
+420	That's okay, I'm going to get it anyways.	anger	strong_head_shake
+420	That's okay, I'm going to get it anyways.	anger	slow_breath
+421	It is better than a 'life is a beach' tshirt, isnt it?	neutral	light_head_shake
+421	It is better than a 'life is a beach' tshirt, isnt it?	neutral	strong_head_shake
+421	It is better than a 'life is a beach' tshirt, isnt it?	neutral	slow_breath
+421	It is better than a 'life is a beach' tshirt, isnt it?	anger	light_head_shake
+421	It is better than a 'life is a beach' tshirt, isnt it?	anger	strong_head_shake
+421	It is better than a 'life is a beach' tshirt, isnt it?	anger	slow_breath
+422	I know, but sometimes it's fun!	neutral	strong_nod
+422	I know, but sometimes it's fun!	neutral	nod
+422	I know, but sometimes it's fun!	neutral	slow_breath
+422	I know, but sometimes it's fun!	joy	strong_nod
+422	I know, but sometimes it's fun!	joy	nod
+422	I know, but sometimes it's fun!	joy	slow_breath
+423	Hmm. Maybe something else, then?	neutral	light_head_shake
+423	Hmm. Maybe something else, then?	neutral	strong_head_shake
+423	Hmm. Maybe something else, then?	neutral	slow_breath
+423	Hmm. Maybe something else, then?	anger	light_head_shake
+423	Hmm. Maybe something else, then?	anger	strong_head_shake
+423	Hmm. Maybe something else, then?	anger	slow_breath
+425	It is but I love it	neutral	strong_nod
+425	It is but I love it	neutral	nod
+425	It is but I love it	neutral	slow_breath
+425	It is but I love it	joy	strong_nod
+425	It is but I love it	joy	nod
+425	It is but I love it	joy	slow_breath
+426	That is true, what else can we find?	neutral	light_head_shake
+426	That is true, what else can we find?	neutral	strong_head_shake
+426	That is true, what else can we find?	neutral	slow_breath
+426	That is true, what else can we find?	anger	light_head_shake
+426	That is true, what else can we find?	anger	strong_head_shake
+426	That is true, what else can we find?	anger	slow_breath
+427	Thanks for being honest, what other ideas do you have?	neutral	light_head_shake
+427	Thanks for being honest, what other ideas do you have?	neutral	strong_head_shake
+427	Thanks for being honest, what other ideas do you have?	neutral	slow_breath
+427	Thanks for being honest, what other ideas do you have?	anger	light_head_shake
+427	Thanks for being honest, what other ideas do you have?	anger	strong_head_shake
+427	Thanks for being honest, what other ideas do you have?	anger	slow_breath
+428	What do you suggest?	neutral	light_head_shake
+428	What do you suggest?	neutral	strong_head_shake
+428	What do you suggest?	neutral	slow_breath
+428	What do you suggest?	anger	light_head_shake
+428	What do you suggest?	anger	strong_head_shake
+428	What do you suggest?	anger	slow_breath
+429	But it's the traditional thing to get, isn't it?	neutral	light_head_shake
+429	But it's the traditional thing to get, isn't it?	neutral	strong_head_shake
+429	But it's the traditional thing to get, isn't it?	neutral	slow_breath
+429	But it's the traditional thing to get, isn't it?	anger	light_head_shake
+429	But it's the traditional thing to get, isn't it?	anger	strong_head_shake
+429	But it's the traditional thing to get, isn't it?	anger	slow_breath
+430	What about a keychain, is that cliche as well?	neutral	light_head_shake
+430	What about a keychain, is that cliche as well?	neutral	strong_head_shake
+430	What about a keychain, is that cliche as well?	neutral	slow_breath
+430	What about a keychain, is that cliche as well?	anger	light_head_shake
+430	What about a keychain, is that cliche as well?	anger	strong_head_shake
+430	What about a keychain, is that cliche as well?	anger	slow_breath
+431	You're right. How about a Hollywood shirt?	neutral	light_head_shake
+431	You're right. How about a Hollywood shirt?	neutral	strong_head_shake
+431	You're right. How about a Hollywood shirt?	neutral	slow_breath
+431	You're right. How about a Hollywood shirt?	anger	light_head_shake
+431	You're right. How about a Hollywood shirt?	anger	strong_head_shake
+431	You're right. How about a Hollywood shirt?	anger	slow_breath
+431	You're right. How about a Hollywood shirt?	neutral	strong_nod
+431	You're right. How about a Hollywood shirt?	neutral	nod
+431	You're right. How about a Hollywood shirt?	joy	strong_nod
+431	You're right. How about a Hollywood shirt?	joy	nod
+431	You're right. How about a Hollywood shirt?	joy	slow_breath
+432	You're right haha! But he would probably love it anyway!	neutral	strong_nod
+432	You're right haha! But he would probably love it anyway!	neutral	nod
+432	You're right haha! But he would probably love it anyway!	neutral	slow_breath
+432	You're right haha! But he would probably love it anyway!	joy	strong_nod
+432	You're right haha! But he would probably love it anyway!	joy	nod
+432	You're right haha! But he would probably love it anyway!	joy	slow_breath
+433	They say it's the thought that counts!	neutral	strong_nod
+433	They say it's the thought that counts!	neutral	nod
+433	They say it's the thought that counts!	neutral	slow_breath
+433	They say it's the thought that counts!	joy	strong_nod
+433	They say it's the thought that counts!	joy	nod
+433	They say it's the thought that counts!	joy	slow_breath
+434	Well I think he might like it anyhow.	neutral	light_head_shake
+434	Well I think he might like it anyhow.	neutral	strong_head_shake
+434	Well I think he might like it anyhow.	neutral	slow_breath
+434	Well I think he might like it anyhow.	anger	light_head_shake
+434	Well I think he might like it anyhow.	anger	strong_head_shake
+434	Well I think he might like it anyhow.	anger	slow_breath
+435	Sometimes cliche is just the thing you need!	neutral	strong_nod
+435	Sometimes cliche is just the thing you need!	neutral	nod
+435	Sometimes cliche is just the thing you need!	neutral	slow_breath
+435	Sometimes cliche is just the thing you need!	joy	strong_nod
+435	Sometimes cliche is just the thing you need!	joy	nod
+435	Sometimes cliche is just the thing you need!	joy	slow_breath
+436	Sometimes a classic works best!	neutral	strong_nod
+436	Sometimes a classic works best!	neutral	nod
+436	Sometimes a classic works best!	neutral	slow_breath
+436	Sometimes a classic works best!	joy	strong_nod
+436	Sometimes a classic works best!	joy	nod
+436	Sometimes a classic works best!	joy	slow_breath
+437	Cliches can be fun!	neutral	strong_nod
+437	Cliches can be fun!	neutral	nod
+437	Cliches can be fun!	neutral	slow_breath
+437	Cliches can be fun!	joy	strong_nod
+437	Cliches can be fun!	joy	nod
+437	Cliches can be fun!	joy	slow_breath
+438	No worries. Should we find a better shirt? Or a different souvenir?	neutral	light_head_shake
+438	No worries. Should we find a better shirt? Or a different souvenir?	neutral	strong_head_shake
+438	No worries. Should we find a better shirt? Or a different souvenir?	neutral	slow_breath
+438	No worries. Should we find a better shirt? Or a different souvenir?	anger	light_head_shake
+438	No worries. Should we find a better shirt? Or a different souvenir?	anger	strong_head_shake
+438	No worries. Should we find a better shirt? Or a different souvenir?	anger	slow_breath
+438	No worries. Should we find a better shirt? Or a different souvenir?	neutral	strong_nod
+438	No worries. Should we find a better shirt? Or a different souvenir?	neutral	nod
+438	No worries. Should we find a better shirt? Or a different souvenir?	joy	strong_nod
+438	No worries. Should we find a better shirt? Or a different souvenir?	joy	nod
+438	No worries. Should we find a better shirt? Or a different souvenir?	joy	slow_breath
+439	It may be a cliche, but it's still cute.	neutral	light_head_shake
+439	It may be a cliche, but it's still cute.	neutral	strong_head_shake
+439	It may be a cliche, but it's still cute.	neutral	slow_breath
+439	It may be a cliche, but it's still cute.	anger	light_head_shake
+439	It may be a cliche, but it's still cute.	anger	strong_head_shake
+439	It may be a cliche, but it's still cute.	anger	slow_breath
+439	It may be a cliche, but it's still cute.	neutral	strong_nod
+439	It may be a cliche, but it's still cute.	neutral	nod
+439	It may be a cliche, but it's still cute.	joy	strong_nod
+439	It may be a cliche, but it's still cute.	joy	nod
+439	It may be a cliche, but it's still cute.	joy	slow_breath
+440	Oh, you're right! Probably a bit cliche! No worries. We'll find something else.	neutral	strong_nod
+440	Oh, you're right! Probably a bit cliche! No worries. We'll find something else.	neutral	nod
+440	Oh, you're right! Probably a bit cliche! No worries. We'll find something else.	neutral	slow_breath
+440	Oh, you're right! Probably a bit cliche! No worries. We'll find something else.	joy	strong_nod
+440	Oh, you're right! Probably a bit cliche! No worries. We'll find something else.	joy	nod
+440	Oh, you're right! Probably a bit cliche! No worries. We'll find something else.	joy	slow_breath
+441	It may be a cliche but I'm getting it anyway.	neutral	light_head_shake
+441	It may be a cliche but I'm getting it anyway.	neutral	strong_head_shake
+441	It may be a cliche but I'm getting it anyway.	neutral	slow_breath
+441	It may be a cliche but I'm getting it anyway.	anger	light_head_shake
+441	It may be a cliche but I'm getting it anyway.	anger	strong_head_shake
+441	It may be a cliche but I'm getting it anyway.	anger	slow_breath
+442	What else would you suggest?	neutral	light_head_shake
+442	What else would you suggest?	neutral	strong_head_shake
+442	What else would you suggest?	neutral	slow_breath
+442	What else would you suggest?	anger	light_head_shake
+442	What else would you suggest?	anger	strong_head_shake
+442	What else would you suggest?	anger	slow_breath
+443	I see what you're saying, but I don't know if I agree with you. Besides, sometimes cliches are fun!	neutral	strong_nod
+443	I see what you're saying, but I don't know if I agree with you. Besides, sometimes cliches are fun!	neutral	nod
+443	I see what you're saying, but I don't know if I agree with you. Besides, sometimes cliches are fun!	neutral	slow_breath
+443	I see what you're saying, but I don't know if I agree with you. Besides, sometimes cliches are fun!	joy	strong_nod
+443	I see what you're saying, but I don't know if I agree with you. Besides, sometimes cliches are fun!	joy	nod
+443	I see what you're saying, but I don't know if I agree with you. Besides, sometimes cliches are fun!	joy	slow_breath
+444	Maybe you are right, but what else can I get him?	neutral	light_head_shake
+444	Maybe you are right, but what else can I get him?	neutral	strong_head_shake
+444	Maybe you are right, but what else can I get him?	neutral	slow_breath
+444	Maybe you are right, but what else can I get him?	anger	light_head_shake
+444	Maybe you are right, but what else can I get him?	anger	strong_head_shake
+444	Maybe you are right, but what else can I get him?	anger	slow_breath
+445	I suppose you're right.	neutral	light_head_shake
+445	I suppose you're right.	neutral	strong_head_shake
+445	I suppose you're right.	neutral	slow_breath
+445	I suppose you're right.	anger	light_head_shake
+445	I suppose you're right.	anger	strong_head_shake
+445	I suppose you're right.	anger	slow_breath
+446	What other ideas do you have?	neutral	light_head_shake
+446	What other ideas do you have?	neutral	strong_head_shake
+446	What other ideas do you have?	neutral	slow_breath
+446	What other ideas do you have?	anger	light_head_shake
+446	What other ideas do you have?	anger	strong_head_shake
+446	What other ideas do you have?	anger	slow_breath
+447	Being a robot, I see the value in a cliche'!	neutral	strong_nod
+447	Being a robot, I see the value in a cliche'!	neutral	nod
+447	Being a robot, I see the value in a cliche'!	neutral	slow_breath
+447	Being a robot, I see the value in a cliche'!	joy	strong_nod
+447	Being a robot, I see the value in a cliche'!	joy	nod
+447	Being a robot, I see the value in a cliche'!	joy	slow_breath
+448	But I think it's something he might enjoy.	neutral	light_head_shake
+448	But I think it's something he might enjoy.	neutral	strong_head_shake
+448	But I think it's something he might enjoy.	neutral	slow_breath
+448	But I think it's something he might enjoy.	anger	light_head_shake
+448	But I think it's something he might enjoy.	anger	strong_head_shake
+448	But I think it's something he might enjoy.	anger	slow_breath
+448	But I think it's something he might enjoy.	neutral	strong_nod
+448	But I think it's something he might enjoy.	neutral	nod
+448	But I think it's something he might enjoy.	joy	strong_nod
+448	But I think it's something he might enjoy.	joy	nod
+448	But I think it's something he might enjoy.	joy	slow_breath
+450	I'm sure he will like it anyways.	neutral	light_head_shake
+450	I'm sure he will like it anyways.	neutral	strong_head_shake
+450	I'm sure he will like it anyways.	neutral	slow_breath
+450	I'm sure he will like it anyways.	anger	light_head_shake
+450	I'm sure he will like it anyways.	anger	strong_head_shake
+450	I'm sure he will like it anyways.	anger	slow_breath
+450	I'm sure he will like it anyways.	neutral	strong_nod
+450	I'm sure he will like it anyways.	neutral	nod
+450	I'm sure he will like it anyways.	joy	strong_nod
+450	I'm sure he will like it anyways.	joy	nod
+450	I'm sure he will like it anyways.	joy	slow_breath
+451	I know, but that's why it's a cliche. It's popular.	neutral	light_head_shake
+451	I know, but that's why it's a cliche. It's popular.	neutral	strong_head_shake
+451	I know, but that's why it's a cliche. It's popular.	neutral	slow_breath
+451	I know, but that's why it's a cliche. It's popular.	anger	light_head_shake
+451	I know, but that's why it's a cliche. It's popular.	anger	strong_head_shake
+451	I know, but that's why it's a cliche. It's popular.	anger	slow_breath
+452	Maybe for a human. (laugh)	neutral	light_head_shake
+452	Maybe for a human. (laugh)	neutral	strong_head_shake
+452	Maybe for a human. (laugh)	neutral	slow_breath
+452	Maybe for a human. (laugh)	anger	light_head_shake
+452	Maybe for a human. (laugh)	anger	strong_head_shake
+452	Maybe for a human. (laugh)	anger	slow_breath
+452	Maybe for a human. (laugh)	neutral	strong_nod
+452	Maybe for a human. (laugh)	neutral	nod
+452	Maybe for a human. (laugh)	joy	strong_nod
+452	Maybe for a human. (laugh)	joy	nod
+452	Maybe for a human. (laugh)	joy	slow_breath
+453	That's ok. We have a cliche kind of relationship.	neutral	light_head_shake
+453	That's ok. We have a cliche kind of relationship.	neutral	strong_head_shake
+453	That's ok. We have a cliche kind of relationship.	neutral	slow_breath
+453	That's ok. We have a cliche kind of relationship.	anger	light_head_shake
+453	That's ok. We have a cliche kind of relationship.	anger	strong_head_shake
+453	That's ok. We have a cliche kind of relationship.	anger	slow_breath
+453	That's ok. We have a cliche kind of relationship.	neutral	strong_nod
+453	That's ok. We have a cliche kind of relationship.	neutral	nod
+453	That's ok. We have a cliche kind of relationship.	joy	strong_nod
+453	That's ok. We have a cliche kind of relationship.	joy	nod
+453	That's ok. We have a cliche kind of relationship.	joy	slow_breath
+454	Cliche is relative to your experience. LA is such an exciting place, looking for the right gift will give me reason to explore.	neutral	light_head_shake
+454	Cliche is relative to your experience. LA is such an exciting place, looking for the right gift will give me reason to explore.	neutral	strong_head_shake
+454	Cliche is relative to your experience. LA is such an exciting place, looking for the right gift will give me reason to explore.	neutral	slow_breath
+454	Cliche is relative to your experience. LA is such an exciting place, looking for the right gift will give me reason to explore.	anger	light_head_shake
+454	Cliche is relative to your experience. LA is such an exciting place, looking for the right gift will give me reason to explore.	anger	strong_head_shake
+454	Cliche is relative to your experience. LA is such an exciting place, looking for the right gift will give me reason to explore.	anger	slow_breath
+454	Cliche is relative to your experience. LA is such an exciting place, looking for the right gift will give me reason to explore.	neutral	strong_nod
+454	Cliche is relative to your experience. LA is such an exciting place, looking for the right gift will give me reason to explore.	neutral	nod
+454	Cliche is relative to your experience. LA is such an exciting place, looking for the right gift will give me reason to explore.	joy	strong_nod
+454	Cliche is relative to your experience. LA is such an exciting place, looking for the right gift will give me reason to explore.	joy	nod
+454	Cliche is relative to your experience. LA is such an exciting place, looking for the right gift will give me reason to explore.	joy	slow_breath
+456	Well, what else would you suggest then?	neutral	light_head_shake
+456	Well, what else would you suggest then?	neutral	strong_head_shake
+456	Well, what else would you suggest then?	neutral	slow_breath
+456	Well, what else would you suggest then?	anger	light_head_shake
+456	Well, what else would you suggest then?	anger	strong_head_shake
+456	Well, what else would you suggest then?	anger	slow_breath
+457	Well that is exactly what my boyfriend likes, he loves to be funny.	neutral	strong_nod
+457	Well that is exactly what my boyfriend likes, he loves to be funny.	neutral	nod
+457	Well that is exactly what my boyfriend likes, he loves to be funny.	neutral	slow_breath
+457	Well that is exactly what my boyfriend likes, he loves to be funny.	joy	strong_nod
+457	Well that is exactly what my boyfriend likes, he loves to be funny.	joy	nod
+457	Well that is exactly what my boyfriend likes, he loves to be funny.	joy	slow_breath
+458	Well then I guess I'll get him a hat then.	neutral	light_head_shake
+458	Well then I guess I'll get him a hat then.	neutral	strong_head_shake
+458	Well then I guess I'll get him a hat then.	neutral	slow_breath
+458	Well then I guess I'll get him a hat then.	anger	light_head_shake
+458	Well then I guess I'll get him a hat then.	anger	strong_head_shake
+458	Well then I guess I'll get him a hat then.	anger	slow_breath
+459	Aren't all souvenirs cliche?	neutral	light_head_shake
+459	Aren't all souvenirs cliche?	neutral	strong_head_shake
+459	Aren't all souvenirs cliche?	neutral	slow_breath
+459	Aren't all souvenirs cliche?	anger	light_head_shake
+459	Aren't all souvenirs cliche?	anger	strong_head_shake
+459	Aren't all souvenirs cliche?	anger	slow_breath
+460	Well, what else can I get him?	neutral	light_head_shake
+460	Well, what else can I get him?	neutral	strong_head_shake
+460	Well, what else can I get him?	neutral	slow_breath
+460	Well, what else can I get him?	anger	light_head_shake
+460	Well, what else can I get him?	anger	strong_head_shake
+460	Well, what else can I get him?	anger	slow_breath
+461	i suppose so	neutral	light_head_shake
+461	i suppose so	neutral	strong_head_shake
+461	i suppose so	neutral	slow_breath
+461	i suppose so	anger	light_head_shake
+461	i suppose so	anger	strong_head_shake
+461	i suppose so	anger	slow_breath
+462	Well, what else would you suggest?	neutral	light_head_shake
+462	Well, what else would you suggest?	neutral	strong_head_shake
+462	Well, what else would you suggest?	neutral	slow_breath
+462	Well, what else would you suggest?	anger	light_head_shake
+462	Well, what else would you suggest?	anger	strong_head_shake
+462	Well, what else would you suggest?	anger	slow_breath
+463	I guess so, but still fun!	neutral	strong_nod
+463	I guess so, but still fun!	neutral	nod
+463	I guess so, but still fun!	neutral	slow_breath
+463	I guess so, but still fun!	joy	strong_nod
+463	I guess so, but still fun!	joy	nod
+463	I guess so, but still fun!	joy	slow_breath
+464	Aw, how about a different design then?	neutral	light_head_shake
+464	Aw, how about a different design then?	neutral	strong_head_shake
+464	Aw, how about a different design then?	neutral	slow_breath
+464	Aw, how about a different design then?	anger	light_head_shake
+464	Aw, how about a different design then?	anger	strong_head_shake
+464	Aw, how about a different design then?	anger	slow_breath
+465	Everyone loves shirts, though!	neutral	strong_nod
+465	Everyone loves shirts, though!	neutral	nod
+465	Everyone loves shirts, though!	neutral	slow_breath
+465	Everyone loves shirts, though!	joy	strong_nod
+465	Everyone loves shirts, though!	joy	nod
+465	Everyone loves shirts, though!	joy	slow_breath
+466	Yes but a cute cliche!	neutral	strong_nod
+466	Yes but a cute cliche!	neutral	nod
+466	Yes but a cute cliche!	neutral	slow_breath
+466	Yes but a cute cliche!	joy	strong_nod
+466	Yes but a cute cliche!	joy	nod
+466	Yes but a cute cliche!	joy	slow_breath
+467	How about, I love Cliche? Lol.	neutral	strong_nod
+467	How about, I love Cliche? Lol.	neutral	nod
+467	How about, I love Cliche? Lol.	neutral	slow_breath
+467	How about, I love Cliche? Lol.	joy	strong_nod
+467	How about, I love Cliche? Lol.	joy	nod
+467	How about, I love Cliche? Lol.	joy	slow_breath
+468	Tough customer, eh?	neutral	light_head_shake
+468	Tough customer, eh?	neutral	strong_head_shake
+468	Tough customer, eh?	neutral	slow_breath
+468	Tough customer, eh?	anger	light_head_shake
+468	Tough customer, eh?	anger	strong_head_shake
+468	Tough customer, eh?	anger	slow_breath
+469	Well, I'm sorry to hear that, if you think that it's a cliche idea, then can you please give me another gift idea?	neutral	light_head_shake
+469	Well, I'm sorry to hear that, if you think that it's a cliche idea, then can you please give me another gift idea?	neutral	strong_head_shake
+469	Well, I'm sorry to hear that, if you think that it's a cliche idea, then can you please give me another gift idea?	neutral	slow_breath
+469	Well, I'm sorry to hear that, if you think that it's a cliche idea, then can you please give me another gift idea?	anger	light_head_shake
+469	Well, I'm sorry to hear that, if you think that it's a cliche idea, then can you please give me another gift idea?	anger	strong_head_shake
+469	Well, I'm sorry to hear that, if you think that it's a cliche idea, then can you please give me another gift idea?	anger	slow_breath
+470	That's me - a cliche at heart.	neutral	light_head_shake
+470	That's me - a cliche at heart.	neutral	strong_head_shake
+470	That's me - a cliche at heart.	neutral	slow_breath
+470	That's me - a cliche at heart.	anger	light_head_shake
+470	That's me - a cliche at heart.	anger	strong_head_shake
+470	That's me - a cliche at heart.	anger	slow_breath
+470	That's me - a cliche at heart.	neutral	strong_nod
+470	That's me - a cliche at heart.	neutral	nod
+470	That's me - a cliche at heart.	joy	strong_nod
+470	That's me - a cliche at heart.	joy	nod
+470	That's me - a cliche at heart.	joy	slow_breath
+471	cliches are cliches for a reason!	neutral	strong_nod
+471	cliches are cliches for a reason!	neutral	nod
+471	cliches are cliches for a reason!	neutral	slow_breath
+471	cliches are cliches for a reason!	joy	strong_nod
+471	cliches are cliches for a reason!	joy	nod
+471	cliches are cliches for a reason!	joy	slow_breath
+472	Really? I'll get it anyways.	neutral	light_head_shake
+472	Really? I'll get it anyways.	neutral	strong_head_shake
+472	Really? I'll get it anyways.	neutral	slow_breath
+472	Really? I'll get it anyways.	anger	light_head_shake
+472	Really? I'll get it anyways.	anger	strong_head_shake
+472	Really? I'll get it anyways.	anger	slow_breath
+473	I thought it was an okay idea but I see your point.	neutral	light_head_shake
+473	I thought it was an okay idea but I see your point.	neutral	strong_head_shake
+473	I thought it was an okay idea but I see your point.	neutral	slow_breath
+473	I thought it was an okay idea but I see your point.	anger	light_head_shake
+473	I thought it was an okay idea but I see your point.	anger	strong_head_shake
+473	I thought it was an okay idea but I see your point.	anger	slow_breath
+474	He is a robot, he's not going to care about cliche.	neutral	light_head_shake
+474	He is a robot, he's not going to care about cliche.	neutral	strong_head_shake
+474	He is a robot, he's not going to care about cliche.	neutral	slow_breath
+474	He is a robot, he's not going to care about cliche.	anger	light_head_shake
+474	He is a robot, he's not going to care about cliche.	anger	strong_head_shake
+474	He is a robot, he's not going to care about cliche.	anger	slow_breath
+475	But isn't it also a bit kitschy and fun?	neutral	strong_nod
+475	But isn't it also a bit kitschy and fun?	neutral	nod
+475	But isn't it also a bit kitschy and fun?	neutral	slow_breath
+475	But isn't it also a bit kitschy and fun?	joy	strong_nod
+475	But isn't it also a bit kitschy and fun?	joy	nod
+475	But isn't it also a bit kitschy and fun?	joy	slow_breath
+477	Oh, would he like a less cliche shirt then?	neutral	light_head_shake
+477	Oh, would he like a less cliche shirt then?	neutral	strong_head_shake
+477	Oh, would he like a less cliche shirt then?	neutral	slow_breath
+477	Oh, would he like a less cliche shirt then?	anger	light_head_shake
+477	Oh, would he like a less cliche shirt then?	anger	strong_head_shake
+477	Oh, would he like a less cliche shirt then?	anger	slow_breath
+478	Ha ha, I guess it is, can you give me another suggestion?	neutral	strong_nod
+478	Ha ha, I guess it is, can you give me another suggestion?	neutral	nod
+478	Ha ha, I guess it is, can you give me another suggestion?	neutral	slow_breath
+478	Ha ha, I guess it is, can you give me another suggestion?	joy	strong_nod
+478	Ha ha, I guess it is, can you give me another suggestion?	joy	nod
+478	Ha ha, I guess it is, can you give me another suggestion?	joy	slow_breath
+479	It is? Okay, well, what would be similar that's NOT a cliche in your opinion?	neutral	light_head_shake
+479	It is? Okay, well, what would be similar that's NOT a cliche in your opinion?	neutral	strong_head_shake
+479	It is? Okay, well, what would be similar that's NOT a cliche in your opinion?	neutral	slow_breath
+479	It is? Okay, well, what would be similar that's NOT a cliche in your opinion?	anger	light_head_shake
+479	It is? Okay, well, what would be similar that's NOT a cliche in your opinion?	anger	strong_head_shake
+479	It is? Okay, well, what would be similar that's NOT a cliche in your opinion?	anger	slow_breath
+480	Well do you have any better ideas?	neutral	light_head_shake
+480	Well do you have any better ideas?	neutral	strong_head_shake
+480	Well do you have any better ideas?	neutral	slow_breath
+480	Well do you have any better ideas?	anger	light_head_shake
+480	Well do you have any better ideas?	anger	strong_head_shake
+480	Well do you have any better ideas?	anger	slow_breath
